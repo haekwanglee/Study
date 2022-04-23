@@ -1,0 +1,4 @@
+Rental Record for TestCustomer
+	CHILDREN_5	4.5
+Amount owed is 4.5
+You earned 1 frequent renter points

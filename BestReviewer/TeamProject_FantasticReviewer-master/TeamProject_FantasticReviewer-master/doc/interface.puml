@@ -1,0 +1,44 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+class Field {
+    final String EMPLOYEE_NUMBER = "employeeNumber";
+    final String FIELD_NAME = "name";
+    final String FIELD_CAREER_LEVEL = "careerLevel";
+}
+
+class Option {
+    final String OPTION_PRINT = "-p"
+    final String OPTION_FIRST_NAME = "-f"
+    final String OPTION_LAST_NAME = "-l"
+    final String OPTION_PHONE_MIDDLE = "-m"
+}
+
+interface EmployeeStore {
+
+    void add(Employee employee);
+    List<Employee> search(ConditionParameter condition);
+    List<Employee> delete(ConditionParameter condition);
+    int count();
+
+    void modify(ConditionParameter param, FieldValue value);
+}
+
+class FieldValue {
+    String fieldName,
+    String value,
+}
+
+class ConditionValue extends FieldValue {
+    String option2
+    String option3
+}
+
+class ConditionParameter {
+    ConditionValue first
+    ConditionValue second
+    String operator = (and | or)
+}
+
+ConditionParameter *-> ConditionValue
+@enduml

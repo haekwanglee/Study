@@ -1,0 +1,5 @@
+SCH,-p, ,-se,certi,ADV
+DEL, , , ,certi,ADV
+SCH,-p, ,-se,certi,ADV
+MOD, , , ,certi,PRO,name,Survived Man
+SCH,-p, , ,name,Survived Man

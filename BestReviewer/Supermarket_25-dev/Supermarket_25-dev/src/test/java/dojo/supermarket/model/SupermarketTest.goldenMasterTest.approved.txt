@@ -1,0 +1,13 @@
+apples                              4.98
+  1.99 * 2.500
+toothbrush                          4.95
+  0.99 * 5
+cherry tomato                       1.38
+  0.69 * 2
+rice                                9.96
+  2.49 * 4
+20.0% off(toothbrush)              -0.99
+2 for 0.99(cherry tomato)          -0.39
+10.0% off(rice)                    -1.00
+
+Total:                             18.89

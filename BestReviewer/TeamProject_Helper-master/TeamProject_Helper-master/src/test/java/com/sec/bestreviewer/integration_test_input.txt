@@ -1,0 +1,70 @@
+ADD, , , ,93728322,QSJYRB HONG,CL4,010-3602-4064,19690603,PRO
+ADD, , , ,94526445,VLPDHI LEE,CL4,010-7975-9766,19721111,EX
+ADD, , , ,99398134,JYFMBMT OH,CL4,010-5269-9657,19730321,ADV
+ADD, , , ,02712462,UAFBOWU HONG,CL3,010-9054-6560,19780825,ADV
+ADD, , , ,02712463,UAFBOWU HONG,CL3,010-9054-6560,19780825,PRO
+ADD, , , ,02712464,UAFBOWU HONG,CL3,010-9054-6560,19780825,EX
+ADD, , , ,02712465,UAFBOWU HONG,CL3,010-9054-6560,19780825,ADV
+ADD, , , ,02712466,UAFBOWU HONG,CL3,010-9054-6560,19780825,PRO
+ADD, , , ,02712467,UAFBOWU HONG,CL3,010-9054-6560,19780825,EX
+ADD, , , ,02712468,UAFBOWU HONG,CL4,010-9054-6560,19780825,ADV
+ADD, , , ,03249872,TYLNXWQN OH,CL3,010-7910-1669,19820828,PRO
+ADD, , , ,03717863,NSESFBLRK KIM,CL3,010-4108-4007,19770502,EX
+ADD, , , ,09752663,VWCGM OH,CL3,010-6288-1811,19860720,ADV
+ADD, , , ,09752664,GG LEE,CL3,010-4108-1811,19860720,ADV
+SCH, , , ,cl,CL3
+SCH, , , ,name,HONGGIL DONG
+SCH,-p, , ,employeeNum,02712462
+SCH,-p, , ,employeeNum,09752663
+SCH,-p, , ,employeeNum,94526445
+SCH, , , ,name,HONGGIL DONG
+SCH, , , ,name,HONGGIL DONG
+SCH, , , ,name,HONGGIL DONG
+SCH,-p, , ,employeeNum,99398134
+SCH, , , ,name,HONGGIL DONG
+SCH,-p, , ,employeeNum,02712462
+SCH, , , ,name,HONGGIL DONG
+SCH, , , ,name,HONGGIL DONG
+SCH, , , ,name,HONGGIL DONG
+SCH,-p, , ,employeeNum,02712462
+SCH,-p, , ,employeeNum,03717863
+SCH, , , ,name,UAFBOWU HONG
+SCH, , , ,name,HONGGIL DONG
+SCH,-p, , ,employeeNum,93728322
+SCH,-p, , ,employeeNum,03249872
+DEL,-p,-f, ,name,AAA
+SCH,-p,-f, ,name,TYLNXWQN
+MOD,-p,-l, ,name,KIM,cl,CL3
+DEL,-p,-m, ,phoneNum,1234
+SCH,-p,-m, ,phoneNum,7975
+MOD,-p,-l, ,phoneNum,7975,cl,CL4
+DEL,-p,-y, ,birthday,2017
+SCH,-p,-m, ,birthday,06
+MOD,-p,-d, ,birthday,03,cl,CL4
+SCH,-p,-f,-ge,name,VVVVV
+SCH,-p,-y,-g,birthday,1980
+SCH,-p,-m,-se,phoneNum,2000
+SCH,-p, ,-s,cl,CL3
+DEL,-p,-l, ,name,KIM,-a, , ,cl,CL1
+SCH,-p,-m, ,phoneNum,6288,-o,-y, ,birthday,1972
+MOD,-p,-l, ,phoneNum,4064,-a,-d, ,birthday,03,certi,EX
+DEL,-p,-m,-s,phoneNum,4000,-o,-y,-ge,birthday,1995
+SCH,-p,-l,-se,name,KIM,-a,-m,-g,phoneNum,9000
+MOD,-p,-m,-s,phoneNum,1000,-o,-y,-ge,birthday,1985,certi,PRO
+SCH, , ,-ge,employeeNum,02712467
+SCH, , ,-g,employeeNum,02712467
+SCH, , ,-se,employeeNum,02712467
+SCH, , ,-s,employeeNum,02712467
+SCH, , ,-ge,employeeNum,02712468
+SCH, , ,-ge,employeeNum,03249872
+SCH, ,-f,-ge,name,VWCGM
+DEL,-p,-f, ,name,HONGGIL
+DEL,-p,-f, ,name,UAFBOWU
+DEL,-p,-f, ,name,UAFBOWU
+SCH, , , ,phoneNum,010-9054-6560
+SCH, , ,-ge,phoneNum,010-9054-6560
+SCH, , ,-g,phoneNum,010-9054-6560
+SCH, , ,-se,phoneNum,010-9054-6560
+SCH, , ,-se,phoneNum,010-3602-4064
+SCH, , ,-s,phoneNum,010-3602-4064
+SCH, , , ,certi,EX

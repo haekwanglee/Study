@@ -1,0 +1,7 @@
+SCH,-p,-m,-se,phoneNum,1111
+DEL, ,-m, ,phoneNum,1111,-a,-l, ,phoneNum,1115
+SCH,-p, ,-se,certi,EX
+MOD, ,-m, ,certi,ADV,-a,-f, ,name,DICTIONARY,name,Modified Baby
+SCH,-p,-m, ,phoneNum,3333
+DEL, , , ,employeeNum,01000002,-o, , ,employeeNum,02000003
+SCH,-p, ,-se,certi,EX

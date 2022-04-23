@@ -1,0 +1,4813 @@
+[
+    {
+        "client_msg_id": "4ad989f4-f861-48a3-8d17-a3a7217110cc",
+        "type": "message",
+        "text": "어랏 근데 저 빌드가 안되는데 다른 분들은 되시나요?",
+        "user": "U02PR91N1K4",
+        "ts": "1638864079.058900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어랏 근데 저 빌드가 안되는데 다른 분들은 되시나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f2979ec-27bc-4b90-8391-b6d04a988ae2",
+        "type": "message",
+        "text": "어떻게 안되시나요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864087.059300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어떻게 안되시나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e120c5f-ef4a-4d36-975a-ab21bc4916e0",
+        "type": "message",
+        "text": "혹시 dev인가요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864091.059600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kkg2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 dev인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04356a2d-947e-4128-8ffb-9d14ed05db0a",
+        "type": "message",
+        "text": "저 아까전에 하나 머지 하고 나서, 브랜치 새로 만들엇어요",
+        "user": "U02PR91N1K4",
+        "ts": "1638864098.059900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저 아까전에 하나 머지 하고 나서, 브랜치 새로 만들엇어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bf0ad64-882a-4bff-bc96-5dc0f2cdd643",
+        "type": "message",
+        "text": "네 그러면",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864106.060400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 그러면"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcb01d5b-3942-4a8b-84c1-f28592b3dfeb",
+        "type": "message",
+        "text": "혹시 List.of에서 에러나시는건가요?",
+        "user": "U02PNBRTY69",
+        "ts": "1638864106.060500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cp32J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 List.of에서 에러나시는건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f9bfe36-06f5-487c-ad4b-10080b488c33",
+        "type": "message",
+        "text": "일단",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864107.061000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "woD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일단"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5dac1f3a-1746-485d-ba32-75ca1a389bdc",
+        "type": "message",
+        "text": "dev 에서 git pull 하고 거기서 새로 만들고 지금 수정중인데 빌드가 안되네요",
+        "user": "U02PR91N1K4",
+        "ts": "1638864114.061600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UgA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dev 에서 git pull 하고 거기서 새로 만들고 지금 수정중인데 빌드가 안되네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef564644-9b3d-4308-9a40-1b92917d8237",
+        "type": "message",
+        "text": "혹시 어디서 에러가 나나요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864135.061900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9qB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 어디서 에러가 나나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "330c897d-8a08-45a8-8723-1cb8f493b576",
+        "type": "message",
+        "text": "Employee가 없다고 나오나요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864143.062300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=za",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Employee가 없다고 나오나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46c44387-ac88-49c0-b64a-714285346bda",
+        "type": "message",
+        "text": "```static Command buildCommand(String cmd, Pair&lt;List&lt;String&gt;, List&lt;String&gt;&gt; optionParamsPair)\n        throws IllegalArgumentException {\n    final OptionParser optionParser = new OptionParser(optionParamsPair);\n\n    List&lt;String&gt; params = optionParamsPair.second;\n\n    switch (cmd) {\n        case CMD_ADD:\n            final Employee employee =\n                    new Employee(params.get(0), params.get(1), params.get(2), params.get(3), params.get(4));\n            return new AddCommand(optionParser, employee);```\n",
+        "user": "U02PR91N1K4",
+        "ts": "1638864148.062500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "21\/F2",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "static Command buildCommand(String cmd, Pair<List<String>, List<String>> optionParamsPair)\n        throws IllegalArgumentException {\n    final OptionParser optionParser = new OptionParser(optionParamsPair);\n\n    List<String> params = optionParamsPair.second;\n\n    switch (cmd) {\n        case CMD_ADD:\n            final Employee employee =\n                    new Employee(params.get(0), params.get(1), params.get(2), params.get(3), params.get(4));\n            return new AddCommand(optionParser, employee);"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7d493e4-a151-4833-8746-0a1580979b61",
+        "type": "message",
+        "text": "네",
+        "user": "U02PR91N1K4",
+        "ts": "1638864150.062800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "953ee4b8-29f0-4307-b888-95a7b0142e8e",
+        "type": "message",
+        "text": "네 일단",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864154.063200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nrjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 일단"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "446e8f87-3299-4e63-b9ff-c77f9b866559",
+        "type": "message",
+        "text": "없다고 나옵니다.",
+        "user": "U02PR91N1K4",
+        "ts": "1638864155.063400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "atec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "없다고 나옵니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57a5be64-c69b-47fe-a36d-5b76ede7cf5d",
+        "type": "message",
+        "text": "dev를 checkout 하신 후 pull하시고",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864156.063500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dev를 checkout 하신 후 pull하시고"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a27c5620-34dd-48a2-98b4-f79eea61ff11",
+        "type": "message",
+        "text": "아 그거 한번 당기셔야합니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638864157.063600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2853",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 그거 한번 당기셔야합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85b82afb-b99b-4823-8bac-8dcf215a03cd",
+        "type": "message",
+        "text": "새로 만든 branch를 checkout하시고",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864176.064000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "imB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "새로 만든 branch를 checkout하시고"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c74edf5-5b0e-4c65-907e-84a1512769bc",
+        "type": "message",
+        "text": "아 넵!",
+        "user": "U02PR91N1K4",
+        "ts": "1638864177.064100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQ8bG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 넵!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afcec6ad-6de1-47e3-8fba-d9289eaf6dee",
+        "type": "message",
+        "text": "git rebase dev 한번 해주시면 될겁니다!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864190.064500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git rebase dev 한번 해주시면 될겁니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2169a7c-f9f9-4f2b-82b8-1746964b0bf3",
+        "type": "message",
+        "text": "설명해드리면, dev에서 빌드 에러가 났었는데\n예지님이 branch를 새로 만든 후에\n수정코드가 들어간것 같습니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864226.065200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fk4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "설명해드리면, dev에서 빌드 에러가 났었는데\n예지님이 branch를 새로 만든 후에\n수정코드가 들어간것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7984cc43-d9fc-490b-a25d-20f90fac3d86",
+        "type": "message",
+        "text": "넵!",
+        "user": "U02PR91N1K4",
+        "ts": "1638864258.066000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/o3yp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69dc97fd-62fa-4a25-962d-a9841cc76455",
+        "type": "message",
+        "text": "그래서 local dev에 수정사항을 pull하고\n그 수정 사항을 rebase로 예지님이 새로 만드신 branch에 반영하면 될것 같습니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638864271.066400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0ri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그래서 local dev에 수정사항을 pull하고\n그 수정 사항을 rebase로 예지님이 새로 만드신 branch에 반영하면 될것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "394c9a88-baaa-4c0d-bd05-5b4d5f04f4f4",
+        "type": "message",
+        "text": "다시 떙겨왔떠니 List of 도 build fail 발생하는데 지금 수정중이신건가요?",
+        "user": "U02PR91N1K4",
+        "ts": "1638864876.067200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Upx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다시 떙겨왔떠니 List of 도 build fail 발생하는데 지금 수정중이신건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2190671-e8aa-43cf-a379-1bbe860cdbb3",
+        "type": "message",
+        "text": "아 이거는 JDK11을 사용하셔야 할겁니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638864891.067600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYo48",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 이거는 JDK11을 사용하셔야 할겁니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1354787-32db-4224-b2bc-92a72cd642dd",
+        "type": "message",
+        "text": "프로젝트 자체가 11이 default여서 그런 것 같습니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638864908.068100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로젝트 자체가 11이 default여서 그런 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d9d7e6e-38a2-4b82-a72c-f5dece517de0",
+        "type": "message",
+        "text": "File -&gt; Project Structure",
+        "user": "U02PNBRTY69",
+        "ts": "1638864917.068500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "File -> Project Structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7e2c457-c9ae-4dd6-892e-e2c7408b29c6",
+        "type": "message",
+        "text": "Project 탭의 Project SDK에서",
+        "user": "U02PNBRTY69",
+        "ts": "1638864930.068800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3Gi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Project 탭의 Project SDK에서"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ff6ba8d-67d0-4685-8d93-43e52f8faa71",
+        "type": "message",
+        "text": "Add SDK -&gt; Download SDK에서 버전 11골라주시고 vendor 는 Amazon Corretto골라주시면 될 것 같습니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638864986.069900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hAEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Add SDK -> Download SDK에서 버전 11골라주시고 vendor 는 Amazon Corretto골라주시면 될 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eeff7cf-a719-43ef-997b-2bc4c3a5d0be",
+        "type": "message",
+        "text": "사내 VDI 라서 할수가 없네요;;",
+        "user": "U02PR91N1K4",
+        "ts": "1638864987.070000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "사내 VDI 라서 할수가 없네요;;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21ca35a5-50f9-4401-a8b7-98a156a3582f",
+        "type": "message",
+        "text": "아...",
+        "user": "U02PNBRTY69",
+        "ts": "1638864992.070200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ObsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6b1cfac-032e-4dd9-87cc-1f498a9f6859",
+        "type": "message",
+        "text": "<@U02PNAD3WP7> 민혁님 그럼 8로 낮추는 것은 어떨까요? 의견 부탁드립니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638865022.071000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WP91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PNAD3WP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 민혁님 그럼 8로 낮추는 것은 어떨까요? 의견 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96083189-bce3-41be-9766-efd012d22754",
+        "type": "message",
+        "text": "아 팝업이 더 늦게 뜨네요; 다운로드 됩니다!",
+        "user": "U02PR91N1K4",
+        "ts": "1638865026.071300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 팝업이 더 늦게 뜨네요; 다운로드 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74879690-1f1c-41b9-95db-1c65b2580cf0",
+        "type": "message",
+        "text": "아 넵넵",
+        "user": "U02PNBRTY69",
+        "ts": "1638865036.071700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zcBsl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 넵넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9b4d239-921b-477d-94cf-ed7b4c79b712",
+        "type": "message",
+        "text": "오 네 저도 디폴트가 11이여서 새로설정한건데 8으로 해도 괜찮습니다",
+        "user": "U02PNAD3WP7",
+        "ts": "1638865040.071900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오 네 저도 디폴트가 11이여서 새로설정한건데 8으로 해도 괜찮습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9329309-3444-49c0-9d78-d5bdbe02a7b6",
+        "type": "message",
+        "text": "메이븐에 11이더라구용",
+        "user": "U02PNAD3WP7",
+        "ts": "1638865065.072400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "메이븐에 11이더라구용"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "878b7256-424b-4362-9096-b5fe93536365",
+        "type": "message",
+        "text": "네 빌드 되었습니다!",
+        "user": "U02PR91N1K4",
+        "ts": "1638865159.072600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfIQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 빌드 되었습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02PNAD3WP7",
+                    "U02PNBRTY69"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f1c87c3-47bb-43c0-9ea9-a024aabce61f",
+        "type": "message",
+        "text": "제가 자바랑 git 이 모두 처음이라 도움 주셔서 너무 감사드려요!",
+        "user": "U02PR91N1K4",
+        "ts": "1638865192.073400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 자바랑 git 이 모두 처음이라 도움 주셔서 너무 감사드려요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U02PNAD3WP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man_dancing",
+                "users": [
+                    "U02PR9L1FDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74b7bc7a-88df-4280-b142-04af7296c790",
+        "type": "message",
+        "text": "10분 뒤에, 금일 작업한 내용 DEV로 모으겠습니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638865274.074500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10분 뒤에, 금일 작업한 내용 DEV로 모으겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ab8b66a-0808-4528-a43c-c6442078eaee",
+        "type": "message",
+        "text": "TC 하나 추가했는데 OptionParser 에서 Exception 발생하네요",
+        "user": "U02PR91N1K4",
+        "ts": "1638865286.074700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9VJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TC 하나 추가했는데 OptionParser 에서 Exception 발생하네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d838290-701e-4e7e-b414-6ff9bf053d66",
+        "type": "message",
+        "text": "어떤 부분인가요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638865302.074900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "59t92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어떤 부분인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "caadba5a-852e-479e-9c18-52a7afd48d26",
+        "type": "message",
+        "text": "아 이거 제가 데이터를 잘못만들어서 그런거 같네요;",
+        "user": "U02PR91N1K4",
+        "ts": "1638865367.075300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YiWTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 이거 제가 데이터를 잘못만들어서 그런거 같네요;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U02PR9L1FDY",
+                    "U02PNAD3WP7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6e922ea-5c87-4ac3-af8d-dce6a917fa67",
+        "type": "message",
+        "text": "CI는 제 커밋에만 도는걸까요-_-?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638865675.076400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bz\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CI는 제 커밋에만 도는걸까요-_-?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638865675.076400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1638865771.077400",
+        "reply_users": [
+            "U02PNAD3WP7"
+        ],
+        "replies": [
+            {
+                "user": "U02PNAD3WP7",
+                "ts": "1638865771.077400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1638865771.077400"
+    },
+    {
+        "client_msg_id": "491ade25-fc0f-4c92-955b-acbbbda2f2c6",
+        "type": "message",
+        "text": "앗 ..저는... reabase 를 하고 났더니 push 할때 제꺼 말고도 commit 이 다 보이는데;; 제것만 선택해서 올릴수는 없는건가요?;;",
+        "user": "U02PR91N1K4",
+        "ts": "1638865733.077300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsMea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앗 ..저는... reabase 를 하고 났더니 push 할때 제꺼 말고도 commit 이 다 보이는데;; 제것만 선택해서 올릴수는 없는건가요?;;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5883c72-a56d-416b-bb31-e31921ab0bf8",
+        "type": "message",
+        "text": "아직 다른분들 브랜치에 안들어가서그런것같습니다 저두 한 3시쯤 브랜치아웃했는데 circleci 파일이없네용 ㅎㅎ;",
+        "user": "U02PNAD3WP7",
+        "ts": "1638865771.077400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5rH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아직 다른분들 브랜치에 안들어가서그런것같습니다 저두 한 3시쯤 브랜치아웃했는데 circleci 파일이없네용 ㅎㅎ;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638865675.076400",
+        "parent_user_id": "U02PR9L1FDY"
+    },
+    {
+        "client_msg_id": "f2bf2b63-3f3d-4be6-bdb4-b4229b3afa8d",
+        "type": "message",
+        "text": "아마 예지님 브랜치아웃 한이후로 커밋이 들어와서 그런거같은데 그냥 푸시하셔도 괜찮을거같아용",
+        "user": "U02PNAD3WP7",
+        "ts": "1638865816.077900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "auMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아마 예지님 브랜치아웃 한이후로 커밋이 들어와서 그런거같은데 그냥 푸시하셔도 괜찮을거같아용"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "724b68aa-aa95-4c95-bb26-33e873ed296e",
+        "type": "message",
+        "text": "커밋들 시간보시면 예지님 브랜치아웃한시간이후이지않나요?",
+        "user": "U02PNAD3WP7",
+        "ts": "1638865825.078300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4tbL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "커밋들 시간보시면 예지님 브랜치아웃한시간이후이지않나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15e54376-d32d-4ee7-bdd2-1ae3c11f6108",
+        "type": "message",
+        "text": "네, push하시면 예지님꺼만 push될겁니다!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638865863.079000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네, push하시면 예지님꺼만 push될겁니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c07f1e10-63d8-4160-a478-1c5195ed262c",
+        "type": "message",
+        "text": "이전인듯합니다.",
+        "user": "U02PR91N1K4",
+        "ts": "1638865866.079100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+BD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이전인듯합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdbea038-c4c9-425e-8746-1032c4c0a1f7",
+        "type": "message",
+        "text": "넵",
+        "user": "U02PR91N1K4",
+        "ts": "1638865867.079300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5OJuY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64692534-0055-43c1-a7b0-af168b43ec88",
+        "type": "message",
+        "text": "초반에 master 머지할때 잘못 들어갔는지 TC fail되지 않았을까 싶은데 요번 PR에서 TC동작 전부 확인했습니다~",
+        "user": "U02PNANDBM3",
+        "ts": "1638866003.080500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "초반에 master 머지할때 잘못 들어갔는지 TC fail되지 않았을까 싶은데 요번 PR에서 TC동작 전부 확인했습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02PR9L1FDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef8b9883-5854-458f-9402-4ec110ae9d1e",
+        "type": "message",
+        "text": "깃헙 팀플 어렵네요!  진행방향에 대해서 전체적으로 리뷰한번 하는게 어떨까요?? 필드쪽 수정이랑 어떻게 동작하게 될지 보고 싶어서요",
+        "user": "U02PNANDBM3",
+        "ts": "1638866086.082100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4i6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "깃헙 팀플 어렵네요!  진행방향에 대해서 전체적으로 리뷰한번 하는게 어떨까요?? 필드쪽 수정이랑 어떻게 동작하게 될지 보고 싶어서요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02PNAD3WP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a304be7-42b1-4456-b144-cf5191568d0f",
+        "type": "message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/issues?q=>\n\n이렇게 하니까 모든 PR 도 보이고 review한 내용도 보이네요~",
+        "user": "U02PR9L1FDY",
+        "ts": "1638866087.082200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/issues?q=",
+                "service_name": "GitHub",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/issues?q=",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "fallback": "GitHub: Build software better, together",
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/issues?q="
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyzT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/issues?q="
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n이렇게 하니까 모든 PR 도 보이고 review한 내용도 보이네요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4262f09-e7fe-4f2b-a374-9b704b53d0f9",
+        "type": "message",
+        "text": "좋습니다. 한 5시 50분쯤에 토의할까요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638866109.082700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋습니다. 한 5시 50분쯤에 토의할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "989a3180-2a9f-4fa4-a30e-94f2c4e63373",
+        "type": "message",
+        "text": "마무리 토의",
+        "user": "U02PR9L1FDY",
+        "ts": "1638866112.082900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wqn1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "마무리 토의"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb2cf571-9ed0-4e90-96d8-4a3db505b56e",
+        "type": "message",
+        "text": "넵~",
+        "user": "U02PNAD3WP7",
+        "ts": "1638866140.083100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/MHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "341dd320-25f7-4829-8117-a771aaaced0d",
+        "type": "message",
+        "text": "안녕하세요~ 9시에 잠깐 모여서 인사하고 시작하시죠! :smiley:",
+        "user": "U02PR9L1FDY",
+        "ts": "1638920338.083900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요~ 9시에 잠깐 모여서 인사하고 시작하시죠! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5d25407-cdc1-4561-ab06-ddfc86bee2e3",
+        "type": "message",
+        "text": "안녕하세요~ 네 알겠습니다~",
+        "user": "U02PR91N1K4",
+        "ts": "1638920400.084300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5FN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요~ 네 알겠습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "775fa690-4d5c-4c6c-b5da-1b0183a70de3",
+        "type": "message",
+        "text": "녹스미팅 들어오세요~ 오전에 강의 있다고 합니다",
+        "user": "U02PR91N1K4",
+        "ts": "1638921802.084800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPFl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "녹스미팅 들어오세요~ 오전에 강의 있다고 합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f49b155-61c9-4753-8d77-363ba8b503ff",
+        "type": "message",
+        "text": "헉 넵",
+        "user": "U02PR9L1FDY",
+        "ts": "1638921843.085000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "헉 넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1856e3e5-5bdf-4fb9-bf4c-98fd6a6cd08a",
+        "type": "message",
+        "text": "• <https:\/\/new.meeting.samsung.net\/@\/enter\/false\/2349377>\n",
+        "user": "U02PNANDBM3",
+        "ts": "1638922004.085700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ijMa",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/new.meeting.samsung.net\/@\/enter\/false\/2349377"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "150a2126-c777-4894-bc96-c282a831d8ca",
+        "type": "message",
+        "text": "안녕하세요 조큼 늦었습니다 오늘 강의없는줄알았는데 하고 있었네요;",
+        "user": "U02PNANDBM3",
+        "ts": "1638922027.086200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bVG=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 조큼 늦었습니다 오늘 강의없는줄알았는데 하고 있었네요;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d14c92f2-54d0-4a66-972d-3a385b614979",
+        "type": "message",
+        "text": "team docs 에 들어갈수 있는 사내환경이 필요하데요",
+        "user": "U02PR91N1K4",
+        "ts": "1638922041.086500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "team docs 에 들어갈수 있는 사내환경이 필요하데요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e215d111-7e56-4c40-a462-d8eb63d637f8",
+        "type": "message",
+        "text": "아 오늘 한번 써보는 날인가보군요",
+        "user": "U02PR9L1FDY",
+        "ts": "1638922158.086800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3HAI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 오늘 한번 써보는 날인가보군요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca26f5f4-cf51-486f-92d2-09bffd9446fe",
+        "type": "message",
+        "text": "예지님\n&gt;  careerLevel, certi field compareTo\n&gt; queryFieldMatchedRows 참고",
+        "user": "U02PR9L1FDY",
+        "ts": "1638936787.087500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "예지님\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " careerLevel, certi field compareTo\nqueryFieldMatchedRows 참고"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e98be3ad-d0a2-46bf-882d-3a829040d174",
+        "type": "message",
+        "text": "네",
+        "user": "U02PR91N1K4",
+        "ts": "1638938049.088000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5UtT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d58a635-ce2f-473c-beb7-264f2e00b1ba",
+        "type": "message",
+        "text": "<@U02PR9L1FDY> 홍빈님,\n\n아까 maven clean하는 argument가 clean:clean 이었나요?\n이게 통과만 하면 되는거죠?",
+        "user": "U02PNBRTY69",
+        "ts": "1638938088.088800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2wp+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PR9L1FDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 홍빈님,\n\n아까 maven clean하는 argument가 clean:clean 이었나요?\n이게 통과만 하면 되는거죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638938088.088800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1638938699.089800",
+        "reply_users": [
+            "U02PR9L1FDY"
+        ],
+        "replies": [
+            {
+                "user": "U02PR9L1FDY",
+                "ts": "1638938699.089800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02PX89C02E",
+                "created": 1638938277,
+                "timestamp": 1638938277,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02PR9L1FDY",
+                "editable": false,
+                "size": 39826,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PR8JF97U-F02PX89C02E\/image.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PR8JF97U-F02PX89C02E\/download\/image.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_64.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_80.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_360.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 183,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_480.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 244,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_160.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_720.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 366,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_800.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 406,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_960.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 487,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PR8JF97U-F02PX89C02E-e81981d342\/image_1024.png?t=xoxe-2807290519266-2817064145878-2826029848468-2408b2fadb197eea0ddd3715b81209d9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 520,
+                "original_w": 1046,
+                "original_h": 531,
+                "thumb_tiny": "AwAYADCt2oxRuNGTTAKMe1FJSAWikooAKKKKACiiigAopR3oNAH\/2Q==",
+                "permalink": "https:\/\/bestreviewer-applet.slack.com\/files\/U02PR9L1FDY\/F02PX89C02E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PR8JF97U-F02PX89C02E-2a6d3696c8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PR9L1FDY",
+        "display_as_bot": false,
+        "ts": "1638938281.089100",
+        "client_msg_id": "d5703659-0cf4-4d82-a781-59c2d93c1185"
+    },
+    {
+        "client_msg_id": "57fd486d-2db8-4f18-b226-dcf045005860",
+        "type": "message",
+        "text": "이렇게 하시면 됩니다!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638938287.089600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDkvN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이렇게 하시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02PNBRTY69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "정확히는 nested static class는 TC에 포함이 안되는 것 같습니다. `mvn clean test`  했을 때 근영님이 copy하신 TC 가 정상적으로 수행되는지 보시면 될 것 같아요",
+        "user": "U02PR9L1FDY",
+        "ts": "1638938699.089800",
+        "thread_ts": "1638938088.088800",
+        "root": {
+            "client_msg_id": "4d58a635-ce2f-473c-beb7-264f2e00b1ba",
+            "type": "message",
+            "text": "<@U02PR9L1FDY> 홍빈님,\n\n아까 maven clean하는 argument가 clean:clean 이었나요?\n이게 통과만 하면 되는거죠?",
+            "user": "U02PNBRTY69",
+            "ts": "1638938088.088800",
+            "team": "T02PR8JF97U",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2wp+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U02PR9L1FDY"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 홍빈님,\n\n아까 maven clean하는 argument가 clean:clean 이었나요?\n이게 통과만 하면 되는거죠?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1638938088.088800",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1638938699.089800",
+            "reply_users": [
+                "U02PR9L1FDY"
+            ],
+            "replies": [
+                {
+                    "user": "U02PR9L1FDY",
+                    "ts": "1638938699.089800"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uu1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정확히는 nested static class는 TC에 포함이 안되는 것 같습니다. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mvn clean test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  했을 때 근영님이 copy하신 TC 가 정상적으로 수행되는지 보시면 될 것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c6fda634-ffc2-4b6a-9fb4-ee9699c2d469"
+    },
+    {
+        "client_msg_id": "ba2cd12b-cef2-44f0-979b-c7d76cc92a39",
+        "type": "message",
+        "text": "민혁님, 해광님\n제가 And \/ or를 구현하면서 해광님이 만드신 TokenGroup을 Search에서 사용하려다 보니\n\n기존에\n```Command buildCommand(String cmd, List&lt;String&gt; options, List&lt;String&gt; params)```\n를\n```static Command buildCommand(TokenGroup tokenGroup)```\n로 이용하도록 바꿔야 할 것 같은데요.\n\n각 command의 생성자가 TokenGroup을 쓰도록 변경하는게 바라시는 바였던거죠?\n```public AddCommand(OptionParser optionParser, List&lt;String&gt; params)\n-&gt; \npublic AddCommand(TokenGroup tokenGroup)```\n와 같이요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638941605.092500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "US4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "민혁님, 해광님\n제가 And \/ or를 구현하면서 해광님이 만드신 TokenGroup을 Search에서 사용하려다 보니\n\n기존에\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Command buildCommand(String cmd, List<String> options, List<String> params)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "를\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "static Command buildCommand(TokenGroup tokenGroup)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "로 이용하도록 바꿔야 할 것 같은데요.\n\n각 command의 생성자가 TokenGroup을 쓰도록 변경하는게 바라시는 바였던거죠?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public AddCommand(OptionParser optionParser, List<String> params)\n-> \npublic AddCommand(TokenGroup tokenGroup)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "와 같이요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02PNAD3WP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f6aceb8-9b53-4dc8-b795-102291005b8e",
+        "type": "message",
+        "text": "아 넵 지금 바뀌어 있지 않았나요?",
+        "user": "U02PNANDBM3",
+        "ts": "1638941710.094200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90wG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 넵 지금 바뀌어 있지 않았나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29d73833-d2f8-4e50-9cc6-b9481244a09d",
+        "type": "message",
+        "text": "```static Command buildCommand(String cmd, List&lt;String&gt; options, List&lt;String&gt; params)```\n원래거 남겨두고\n```static Command buildCommand(TokenGroup tokenGroup)```\n여튼 고거 생각했어요",
+        "user": "U02PNANDBM3",
+        "ts": "1638941749.094800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uze",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "static Command buildCommand(String cmd, List<String> options, List<String> params)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "원래거 남겨두고\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "static Command buildCommand(TokenGroup tokenGroup)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여튼 고거 생각했어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41fbd2d0-4569-4985-8091-80a361eb320e",
+        "type": "message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/blob\/dev\/src\/main\/java\/com\/sec\/bestreviewer\/command\/AddCommand.java>\n\n해광님, 지금 DEV 최신 코드에는 반영이 안되어 있는것 같아요.\n일단 생각하시는게 맞다고 하시니 제가 반영해볼게요",
+        "user": "U02PR9L1FDY",
+        "ts": "1638941776.095300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/blob\/dev\/src\/main\/java\/com\/sec\/bestreviewer\/command\/AddCommand.java",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/blob\/dev\/src\/main\/java\/com\/sec\/bestreviewer\/command\/AddCommand.java",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/blob\/dev\/src\/main\/java\/com\/sec\/bestreviewer\/command\/AddCommand.java",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8Fx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/blob\/dev\/src\/main\/java\/com\/sec\/bestreviewer\/command\/AddCommand.java"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n해광님, 지금 DEV 최신 코드에는 반영이 안되어 있는것 같아요.\n일단 생각하시는게 맞다고 하시니 제가 반영해볼게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df05a57a-8461-4f43-b15e-17471d2301b0",
+        "type": "message",
+        "text": "\/\/TODO: param TokenGroup    static Command buildCommand(TokenGroup tokenGroup)\n요렇게요",
+        "user": "U02PNANDBM3",
+        "ts": "1638941815.096100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HcIzE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/\/TODO: param TokenGroup    static Command buildCommand(TokenGroup tokenGroup)\n요렇게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3ab7663-86e2-48dd-ae68-a5a0205285b3",
+        "type": "message",
+        "text": "TODO 라고 Dev에 올렸었어요 ~",
+        "user": "U02PNANDBM3",
+        "ts": "1638941832.096600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TODO 라고 Dev에 올렸었어요 ~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "007d426b-ed6a-4493-b650-8e3ea0427683",
+        "type": "message",
+        "text": "하 네네! 실제 쓰는 부분이 없는것 같아서 문의 드렸었는데요.\n제가 하겠습니다!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638941853.097000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HKM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하 네네! 실제 쓰는 부분이 없는것 같아서 문의 드렸었는데요.\n제가 하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78fc7b27-d479-45cd-95bc-0c939310a9fb",
+        "type": "message",
+        "text": "감사합니다",
+        "user": "U02PNANDBM3",
+        "ts": "1638941860.097200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b2daf10-14e8-4f1a-a79b-166428371dd9",
+        "type": "message",
+        "text": "그리고 하다보니\n```public List&lt;String&gt; execute(EmployeeStore employeeStore)```\n이 부분도\n```public List&lt;String&gt; execute(Table employeeDatabase)```\n이걸 쓰게 고쳐야 할것 같은데\n혹시 이걸 작업하시는 분이 계신가요? (없으시면 제가 하면서 싹하겠습니다.)",
+        "user": "U02PR9L1FDY",
+        "ts": "1638941881.097500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgNND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그리고 하다보니\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public List<String> execute(EmployeeStore employeeStore)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이 부분도\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public List<String> execute(Table employeeDatabase)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이걸 쓰게 고쳐야 할것 같은데\n혹시 이걸 작업하시는 분이 계신가요? (없으시면 제가 하면서 싹하겠습니다.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "892ab4fa-274d-4056-9b82-59c2202202d9",
+        "type": "message",
+        "text": "아 근영님이 작업중실까요?\n```executeWithDb```\n이걸\n```execute```\n로 바꾸는 작업을요?\n\n<@U02PNBRTY69>",
+        "user": "U02PR9L1FDY",
+        "ts": "1638941960.098100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 근영님이 작업중실까요?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "executeWithDb"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이걸\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "execute"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "로 바꾸는 작업을요?\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PNBRTY69"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b4d587c-101a-4264-8f61-61222cc96fdd",
+        "type": "message",
+        "text": "아 아닙니다. 아직 시작은 안했고요. legacy코드가 모두 교체되면 지우려고 생각했는데",
+        "user": "U02PNBRTY69",
+        "ts": "1638941995.098600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 아닙니다. 아직 시작은 안했고요. legacy코드가 모두 교체되면 지우려고 생각했는데"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5be9581-47a6-4cde-ab6e-01f3ccaf5db7",
+        "type": "message",
+        "text": "불필요하시면 지우셔도 되는데",
+        "user": "U02PNBRTY69",
+        "ts": "1638942004.099200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2m=T2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "불필요하시면 지우셔도 되는데"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6781ce4-53ad-4cff-8da7-0f4945d3c7e5",
+        "type": "message",
+        "text": "아직 delete와 count의 test를 그대로 옮기지 못했어서 레거시로 남기고있었습니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638942031.100100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아직 delete와 count의 test를 그대로 옮기지 못했어서 레거시로 남기고있었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "daebbd0f-efae-40a4-a2e8-c4a6164b5ddc",
+        "type": "message",
+        "text": "아 그렇군요. 그러면... 제가 한번해보겠습니다.\n전체적으로 엮여있네요",
+        "user": "U02PR9L1FDY",
+        "ts": "1638942070.100800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PrMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 그렇군요. 그러면... 제가 한번해보겠습니다.\n전체적으로 엮여있네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f351a27-dc88-4de3-ac8b-1b7baef93d60",
+        "type": "message",
+        "text": "넵넵 알겠습니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638942080.101000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵넵 알겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42c17949-ff1f-4ee4-8527-0193a4b68439",
+        "type": "message",
+        "text": "넵!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638942083.101300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVhF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03b2fd80-2b0f-42de-b76e-85885634712e",
+        "type": "message",
+        "text": "일단 막무가내로 하고 refactoring하면 될 것 같네요!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638942099.102000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일단 막무가내로 하고 refactoring하면 될 것 같네요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90f37720-10eb-4d94-a869-82c8b1e21db6",
+        "type": "message",
+        "text": "지금 FieldFactory쪽을 손보고 있는데 있다가 delete쪽을 시작할 것 같아요. 시작하기 전에 홍빈님과 논의하고 시작하면 될 것 같아요",
+        "user": "U02PNBRTY69",
+        "ts": "1638942110.102400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8OD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지금 FieldFactory쪽을 손보고 있는데 있다가 delete쪽을 시작할 것 같아요. 시작하기 전에 홍빈님과 논의하고 시작하면 될 것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "365ebeba-f5f5-42ef-926f-40f3330e9652",
+        "type": "message",
+        "text": "넵.\n지금 아마도 해광님 저, 근영님이 하시는 분이 곧 conflict가 날것 같은데",
+        "user": "U02PR9L1FDY",
+        "ts": "1638942149.102900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgD8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵.\n지금 아마도 해광님 저, 근영님이 하시는 분이 곧 conflict가 날것 같은데"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae5131d4-eed6-4a34-8daa-3095c050628e",
+        "type": "message",
+        "text": "잘 헤쳐나가보시죠",
+        "user": "U02PR9L1FDY",
+        "ts": "1638942156.103200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0uQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "잘 헤쳐나가보시죠"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a172773e-5ba8-46ab-9341-72582cb3277d",
+        "type": "message",
+        "text": "넵넵",
+        "user": "U02PNBRTY69",
+        "ts": "1638942161.103400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7md",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7026c3db-2fea-4bff-be84-b2e26d892f39",
+        "type": "message",
+        "text": "제가 곧 일빠로 PR올려보겠습니다",
+        "user": "U02PNANDBM3",
+        "ts": "1638942228.104400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rOHu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 곧 일빠로 PR올려보겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ebd104f-9e16-42d7-90e0-561d98aad597",
+        "type": "message",
+        "text": "좋습니다 ㅋ",
+        "user": "U02PR9L1FDY",
+        "ts": "1638942248.104700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋습니다 ㅋ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73bf8cfa-ef1e-46e3-a2fc-064921e7b1d0",
+        "type": "message",
+        "text": "아직 구현 중인데요.\n<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274>\n이런 방향으로 구현하는게 맞는지 한번 확인해주시겠어요?\n\nAddCommand\nCommandExecutor\n<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274#diff-458287600cf7d4085e058fb4e70d7cf5346c8c93ca43ce27259c453328a8548c|CommandFactory.java> 등입니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638944629.105700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PR9L1FDY",
+            "ts": "1638944665.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274",
+                "service_name": "GitHub"
+            },
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274#diff-458287600cf7d4085e058fb4e70d7cf5346c8c93ca43ce27259c453328a8548c",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274#diff-458287600cf7d4085e058fb4e70d7cf5346c8c93ca43ce27259c453328a8548c",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274#diff-458287600cf7d4085e058fb4e70d7cf5346c8c93ca43ce27259c453328a8548c",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아직 구현 중인데요.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n이런 방향으로 구현하는게 맞는지 한번 확인해주시겠어요?\n\nAddCommand\nCommandExecutor\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274#diff-458287600cf7d4085e058fb4e70d7cf5346c8c93ca43ce27259c453328a8548c",
+                                "text": "CommandFactory.java",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " 등입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf7eea89-5884-4df7-aff5-ad07cb17d1a7",
+        "type": "message",
+        "text": "음 이거 다들 한번 보시면서 하면 좋을 것 같은데,\n혹시 시간 되시는 분 계신가요?\n녹스 미팅으로 모였으면 합니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638944703.106500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1tc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "음 이거 다들 한번 보시면서 하면 좋을 것 같은데,\n혹시 시간 되시는 분 계신가요?\n녹스 미팅으로 모였으면 합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U02PNBRTY69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7cef8686-e285-44f8-a146-48b974ea4e5d",
+        "type": "message",
+        "text": "옙!",
+        "user": "U02PNANDBM3",
+        "ts": "1638944724.106700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3xP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "옙!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e149e4a-d36e-4d40-9dc8-10ff02155afa",
+        "type": "message",
+        "text": "PR말고 커밋별로도 공유가 되는군요",
+        "user": "U02PNANDBM3",
+        "ts": "1638944748.107200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YS4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PR말고 커밋별로도 공유가 되는군요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3e92148-309e-4b25-a6d3-7b94f843fdfc",
+        "type": "message",
+        "text": "저도 잘 몰랐는데 되네요 ㅋ",
+        "user": "U02PR9L1FDY",
+        "ts": "1638944759.107500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wOey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 잘 몰랐는데 되네요 ㅋ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1c54526-6986-455a-927b-265af0a34504",
+        "type": "message",
+        "text": "그럼 회의 끝난건가요???",
+        "user": "U02PR91N1K4",
+        "ts": "1638945708.107900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "f26c134f7136",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800611425126_f26c134f71368aaaef02_72.png",
+            "first_name": "라온라온",
+            "real_name": "라온라온",
+            "display_name": "윤예지",
+            "team": "T02PR8JF97U",
+            "name": "laontomo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQmT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 회의 끝난건가요???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a05787c-77c6-416b-aedc-822da5fd76aa",
+        "type": "message",
+        "text": "네 일단 그런 것 같습니다",
+        "user": "U02PNBRTY69",
+        "ts": "1638945757.108200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6V5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 일단 그런 것 같습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a56dac6e-cd48-4acc-ba5a-8462d3298692",
+        "type": "message",
+        "text": "넵!!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638945908.108400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=lWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8230f62a-9f55-4605-9b91-7531caad6be5",
+        "type": "message",
+        "text": "끝났습니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638945911.108600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uRZQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "끝났습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4170b94-80ab-4532-adbe-c5a793971b9d",
+        "type": "message",
+        "text": "근영님 리뷰 부탁 드립니다.\n<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37>\n\n이어서 DeleteCommand 구현해주시면 됩니다.\n한가지 공유 드릴건,\n현재 DeleteCommand의 생성자가\n```public DeleteCommand(OptionParser optionParser, Pair&lt;String, String&gt; conditionPair) {```\n로 되어 있는데\n```public DeleteCommand(TokenGroup tokenGroup) {```\n으로 수정하셔야 합니다!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638946343.109600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "근영님 리뷰 부탁 드립니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n이어서 DeleteCommand 구현해주시면 됩니다.\n한가지 공유 드릴건,\n현재 DeleteCommand의 생성자가\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public DeleteCommand(OptionParser optionParser, Pair<String, String> conditionPair) {"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "로 되어 있는데\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public DeleteCommand(TokenGroup tokenGroup) {"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "으로 수정하셔야 합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d8c1f91-92ad-4e06-98b1-8d602a1bbc23",
+        "type": "message",
+        "text": "저는 Search, Mod 구현 예정입니다.",
+        "user": "U02PR9L1FDY",
+        "ts": "1638946354.109900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RCxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 Search, Mod 구현 예정입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb1f51c3-93a5-4f47-abcc-82fa00f68bc3",
+        "type": "message",
+        "text": "아, 근영님 그런데 구현하실때 Search 를 이용하셔야 하죠?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638946575.110700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Cgb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아, 근영님 그런데 구현하실때 Search 를 이용하셔야 하죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d398dab5-944f-4b63-ae07-6c4361d746ae",
+        "type": "message",
+        "text": "일단 TDD 로 mock 구현해서 진행 부탁 드립니다!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638947047.111600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BxBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일단 TDD 로 mock 구현해서 진행 부탁 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94222f97-d019-4b61-b0bc-da21ab0e6343",
+        "type": "message",
+        "text": "현재 EmployeeManagement 에서\n```TokenGroup tokens = commandParser.parseOrigin(line);```\n =&gt;\n```TokenGroup tokens = commandParser.parse(line)```\n요렇게 바꿔야, 오늘 수정해서 바뀐 tokenGroup에 파싱된 부분 저장됩니다. Command쪽 작업 하고 계시다면 참고부탁드려요",
+        "user": "U02PNANDBM3",
+        "ts": "1638949479.113500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PNANDBM3",
+            "ts": "1638949505.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+eHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재 EmployeeManagement 에서\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TokenGroup tokens = commandParser.parseOrigin(line);"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " =>\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TokenGroup tokens = commandParser.parse(line)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "요렇게 바꿔야, 오늘 수정해서 바뀐 tokenGroup에 파싱된 부분 저장됩니다. Command쪽 작업 하고 계시다면 참고부탁드려요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638949479.113500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1638950774.116800",
+        "reply_users": [
+            "U02PR9L1FDY",
+            "U02PNBRTY69"
+        ],
+        "replies": [
+            {
+                "user": "U02PR9L1FDY",
+                "ts": "1638950753.116400"
+            },
+            {
+                "user": "U02PNBRTY69",
+                "ts": "1638950774.116800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8d22138e-63b7-47bb-815a-dfba2540c1a8",
+        "type": "message",
+        "text": "아 그렇군요!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638949505.113900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cu6TW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 그렇군요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4793da5b-bf18-42e2-9391-c02a6088cf45",
+        "type": "message",
+        "text": "넵!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638949515.114300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQsv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "392e5d32-9911-4b80-80bf-c0a5173205d2",
+        "type": "message",
+        "text": "해광님 잠시 시간 괜찮으세요?",
+        "user": "U02PR9L1FDY",
+        "ts": "1638949599.114600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해광님 잠시 시간 괜찮으세요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1879f53c-401f-47a2-abf9-e324f2b2f9f1",
+        "type": "message",
+        "text": "옙!",
+        "user": "U02PNANDBM3",
+        "ts": "1638949605.114900",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gOSg6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "옙!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac49eae1-b383-48ca-8fd9-49359c09f0d4",
+        "type": "message",
+        "text": "제가 Test하는데\n```tokenGroup.hasOption(TokenGroup.Option.PRINT)```\n여기서 문제가 발생해서요! 지금 녹스 미팅 만들게요!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638949615.115200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wz6T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 Test하는데\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tokenGroup.hasOption(TokenGroup.Option.PRINT)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여기서 문제가 발생해서요! 지금 녹스 미팅 만들게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+SCH,-p,-m,-se,phoneNum,1111
+DEL, ,-m, ,phoneNum,1111,-o,-m, ,phoneNum,8888
+SCH,-p, ,-se,certi,EX

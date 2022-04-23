@@ -1,0 +1,1751 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638865613.021500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#23 Impl\/concrete field\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23 by master-yun",
+                "text": "*제목*\n\n세부 field 구현\n\n*작업 내용*\n\n세부 field 선언 및 테스트 코드 구현\n\n\n",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "title": "#23 Impl\/concrete field",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638865677.021600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#24 Feature\/parser\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24 by haekwang-lee",
+                "text": "*제목*\n\n파싱 logic 수정\n\n\n\n\n*작업 내용*\n\n파싱 logic에서 pair에 맞게 logic 수정하고\n일단 초반이라 머지에 문제없도록 origin코드는 원복했습니다.",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "title": "#24 Feature\/parser",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638865988.021700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24|#24 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24|#24 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638865988.021800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/213ea146a004...40323223c466|3 new commits> by haekwang.lee and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3b18494536bcfc7b0e4c056c5dffc613536428ab|3b18494>` parse TC 수정 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/52cacb1d1218e6db4dd9f2c227a7885e029477bc|52cacb1>` parse logic 수정 및 빌드위해서 origin원복 TC동작 확인 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/40323223c466179364b2c69c4280449c38407bdb|4032322>` Merge pull request #24 from Best-Reviewer-3-11\/feature\/parser - 이해광",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/213ea146a004...40323223c466|3 new commits> by 1 and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/master-yun|master-yun> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24|#24: Feature\/parser>",
+        "ts": "1638866002.021900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "lgtm! 고생하셨습니다",
+                "text": "lgtm! 고생하셨습니다",
+                "id": 1,
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24|#24: Feature\/parser>",
+        "ts": "1638866002.022000",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/24|#24: Feature\/parser>",
+        "ts": "1638866126.022100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23|#23: Impl\/concrete field>",
+        "ts": "1638866483.022200",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23|#23: Impl\/concrete field>",
+        "ts": "1638866728.022300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "많이 구현하셨네요!\n고생하셨습니다.",
+                "text": "많이 구현하셨네요!\n고생하셨습니다.",
+                "id": 1,
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638866793.022400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23|#23 Impl\/concrete field> by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23|#23 Impl\/concrete field> by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638866793.022500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/40323223c466...f02df00b841a|4 new commits> by Mark Yun and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/db56985a12b40b7bb3e0a245352537dc52d15749|db56985>` impl | added concrete fields - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/49417f854e7bbb3a48d76552de8fce76d32c158d|49417f8>` impl | added interface to query - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/76f61ebf0052e1f147b4be6e0b18cac18812cc05|76f61eb>` impl | added test code - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f02df00b841a9f09d77e9f5dc78c13a9367a08c4|f02df00>` Merge pull request #23 from Best-Reviewer-3-11\/impl\/concrete-field - 윤민혁",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/40323223c466...f02df00b841a|4 new commits> by 1 and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638871617.022600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#25 10000 개 data ADD 및 1개 search 하는 TC 추가 및 속도 측정\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/25 by yeji-yoon",
+                "text": "*제목*\n\n10000 개 data ADD 및 1개 search 하는 TC 추가 및 속도 측정\n\n*작업 내용*\n\n10000개 data 생성,\ndata 내에서 1개 찾기,\n속도 측정\n\n\n",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "title": "#25 10000 개 data ADD 및 1개 search 하는 TC 추가 및 속도 측정",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/25",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/23|#23: Impl\/concrete field>",
+        "ts": "1638873628.022700",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/master-yun|master-yun> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/25|#25: 10000 개 data ADD 및 1개 search 하는 TC 추가 및 속도 측정>",
+        "ts": "1638873742.022800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "고생많으셨습니다 :+1:",
+                "text": "고생많으셨습니다 :+1:",
+                "id": 1,
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638874393.022900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/25|#25 10000 개 data ADD 및 1개 search 하는 TC 추가 및 속도 측정> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/25|#25 10000 개 data ADD 및 1개 search 하는 TC 추가 및 속도 측정> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638874393.023000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/f02df00b841a...c83cf3d65ab4|12 new commits> by Yeji Yoon and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/61c8e6ff7e6fa0fbda4307fdcd5777507a4a04d8|61c8e6f>` 10000개 add data input 추가 - 마지막 employy search 성능 측정용 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/c789c4537edfc70f5657d3bf4eaa8d5dc863ac58|c789c45>` 10000개 add data input 추가 - 마지막 employy search 성능 측정용 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/19097f5850bbb4cf26c40b3679c46503f22fc9e7|19097f5>` integrationBigDataTest() 추가 - input data 잘못 만들어서 실패함. - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3b0f63a8f4a907d53c92d241b6c4342cc9579650|3b0f63a>` Merge remote-tracking branch 'origin\/feature\/approvalTC2' into feature\/approvalTC2 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/7846f44a7ce90e3d9d39ea91d6d685272091f10f|7846f44>` 10000개 add data input 추가 - 마지막 employy search 성능 측정용 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/941c70588ca12b8b0ddbe3102e188e30f4d649aa|941c705>` integrationBigDataTest() 추가 - input data 잘못 만들어서 실패함. - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/e9b2f6d3c299d0ad35d00c6b72ebc481e2224e46|e9b2f6d>` integrationBigDataTest() 추가 - input data 수정 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0428c31f124022ef6d5d07b27823623f9a8da1bf|0428c31>` 10000개 add data input 추가 - 마지막 employy search 성능 측정용 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f659d4884644b0d93f71508dbd33b0c360b20448|f659d48>` input data 수정, approve 파일 추가 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9629490517210d7878e0f4b7ab2ca6aa3e2006e5|9629490>` Merge remote-tracking branch 'origin\/feature\/approvalTC2' into feature\/approvalTC2 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/b554ec1532774eefb5af86416d9724f9b1a8af27|b554ec1>` 시간 측정 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/c83cf3d65ab4b934f3c7f2171609405cfb4a1edc|c83cf3d>` Merge pull request #25 from Best-Reviewer-3-11\/feature\/approvalTC2 - 윤예지",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/f02df00b841a...c83cf3d65ab4|12 new commits> by 1 and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638877378.023100",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#26 Feature\/parser\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26 by haekwang-lee",
+                "text": "*제목*\n\nparse TC 추가변경 및 버그 수정\n\n\n\n\n*작업 내용*\n\nADD OR 파싱관련 테스트 추가하고 TC를 통해 버그 발견 및 수정",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "title": "#26 Feature\/parser",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26: Feature\/parser>",
+        "ts": "1638886224.023200",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638889234.023300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#27 Feature\/approval tc2\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27 by yeji-yoon",
+                "text": "*제목*\n\nApproval TC 추가\n\n\n\n\n*작업 내용*\n\nsearch print option 추가\nDelete TC 추가 및 5개 이상일경우 5개만 출력하는지 검증\n\n\n",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "title": "#27 Feature\/approval tc2",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27|#27: Feature\/approval tc2>",
+        "ts": "1638894636.023400",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27|#27: Feature\/approval tc2>",
+        "ts": "1638894636.023500",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27|#27: Feature\/approval tc2>",
+        "ts": "1638894863.023600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "요구 사항을 만족하는 Case가 많이 들어가서 좋은것 같습니다!\n밤늦게까지 고생하셨습니다!",
+                "text": "요구 사항을 만족하는 Case가 많이 들어가서 좋은것 같습니다!\n밤늦게까지 고생하셨습니다!",
+                "id": 1,
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26: Feature\/parser>",
+        "ts": "1638896242.023700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "늦게까지 고생하셨습니다!\n몇가지 comment 남깁니다.\n추후 refactoring시 참고 부탁 드립니다!",
+                "text": "늦게까지 고생하셨습니다!\n몇가지 comment 남깁니다.\n추후 refactoring시 참고 부탁 드립니다!",
+                "id": 1,
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638901007.023800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#29 Feature\/add new db to legacy\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29 by kaiser-park",
+                "text": "*제목*\n\nRefactoring된 Add &amp; Search Command 마이그레이션\n\n*작업 내용*\n\nRed + Green TC\nField Index Enum 적용",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park>",
+                "title": "#29 Feature\/add new db to legacy",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638919809.023900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27|#27 Feature\/approval tc2> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27|#27 Feature\/approval tc2> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638919810.024000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/c83cf3d65ab4...1f0e57aec13a|4 new commits> by Yeji Yoon and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3354457c09a6f694ae8fa2811568f5eb91fb8b76|3354457>` Approval - search with print option tc 추가 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/c6afe6e1f0272837280c2507ff358aad71d29c0b|c6afe6e>` Approval - Delete with print option tc 추가 : 5개만 출력되는지 확인 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f18ecbebd2dbd8e8e6fd7c8a115602c1d2c08b8e|f18ecbe>` Approval - Delete without print option tc 추가 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/1f0e57aec13a7f85664a0d64c5fed5f0feedeafa|1f0e57a>` Merge pull request #27 from Best-Reviewer-3-11\/feature\/approvalTC2 - 윤예지",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/c83cf3d65ab4...1f0e57aec13a|4 new commits> by 1 and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/27|#27: Feature\/approval tc2>",
+        "ts": "1638919834.024100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638921024.024200",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638921081.024300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "늦게까지 수고 많으셨습니다~^^",
+                "text": "늦게까지 수고 많으셨습니다~^^",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638921209.024400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#30 [리뷰X] Test\/red green refactoring\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/30 by hb-min",
+                "text": "*제목*\n\n\n\n\n*작업 내용*\n\n\n",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "title": "#30 [리뷰X] Test\/red green refactoring",
+                "id": 1,
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/30",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26: Feature\/parser>",
+        "ts": "1638922528.024500",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26: Feature\/parser>",
+        "ts": "1638924804.024600",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26: Feature\/parser>",
+        "ts": "1638925259.024700",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638925466.024800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/26|#26 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638925466.024900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/1f0e57aec13a...9afa9b440741|12 new commits> by haekwang.lee and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0a9fe5ebfe5888984cb57f954d76da422bf47a98|0a9fe5e>` parse TC param전달 방식 변경 및 fail확인 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/c2ea90328bdfcac1385ad655ed2807bc77ab6347|c2ea903>` parse logic수정, TC pass확인 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/7cd53edc4af67a72621368ef5c2f111e797ccbfb|7cd53ed>` parse TC 변경된 내용으로 리팩토링 및 정리 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/8f53e9000697e6e8fb649818514bb9aa130456b9|8f53e90>` parse TC param전달 방식 변경 및 fail확인 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f908870de92bb8bc3e20640905105086bd33741c|f908870>` parse logic수정, TC pass확인 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/1e1f49bb1fa8f95c6e782e3ad53b6110319d8795|1e1f49b>` parse TC 변경된 내용으로 리팩토링 및 정리 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/a796394fc7ae8713ebbff92dd1a7f20778bcf738|a796394>` reformat - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f2f42cd2cc58ee8090b258e7fc13ce51637ee3e5|f2f42cd>` Merge remote-tracking branch 'origin\/feature\/parser' into feature\/parser - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/84d834d50d28588b0ba41c6cdd0fe824ae5def58|84d834d>` Parse, tokenGroup의 default값 null안되도록 수정 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/7f44c487567779a42224613c820cf7d3510dc4df|7f44c48>` Parse, internal method TC 추가 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/1724bc31a5424af64abe003776b1ca6e988e35bf|1724bc3>` Parse, internal method 수정, TC pass확인 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9afa9b440741d4be02c46b903747c136f41feea9|9afa9b4>` Merge pull request #26 from Best-Reviewer-3-11\/feature\/parser - 이해광",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/1f0e57aec13a...9afa9b440741|12 new commits> by 1 and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638926430.025000",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638926664.025100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638937042.025200",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/30|#30 [리뷰X] Test\/red green refactoring> by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/30|#30 [리뷰X] Test\/red green refactoring> by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638938423.025300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29 Feature\/add new db to legacy> by <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29 Feature\/add new db to legacy> by <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638938423.025400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/9afa9b440741...255aa13ee44c|10 new commits> by purke and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3febf5feec2c9b04cb473e6594825ee326843df6|3febf5f>` add failing TC for migrating field as Enums for EmployeeDatabase - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/b67296b901ca7610a913f2ae3fe01cbd8e72eb65|b67296b>` refactor EmployeeDatabase to use pre-declared enums for injection - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/786373f0514d67fe35de8913da4d070caa4ad9d8|786373f>` revert back to returning List&amp;#60;Row&amp;#62; for execute method for output printing - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/28bbf829aa8c4d3d03bb844ada6dd286718a98b6|28bbf82>` bug fix : add command returns empty list - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/1a995a4d6ef9cabfea8157d4dd9bad576f93a99f|1a995a4>` add failing TC for refactored searchCommand - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce71bc99e031aee3f6ee1f091f2600d08a19be04|ce71bc9>` implement refactored search command - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f17bc02bf2f594b2789df8c6a7222bb5c5b52c88|f17bc02>` Merge remote-tracking branch 'origin\/dev' into feature\/add_newDB_to_legacy - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0c4251a3b5ef04217d9ebe5a21f25ed3bbacf66e|0c4251a>` change in number of fields due to new requirements from merge - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0548e8fb7d4ca532db4ad890313a33d6f872f97a|0548e8f>` add gitignore - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/255aa13ee44caeaa7ee451daed18bee4de5c1129|255aa13>` Merge pull request #29 from Best-Reviewer-3-11\/feature\/add_newDB_to_legacy - 박근영",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/9afa9b440741...255aa13ee44c|10 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/master-yun|master-yun> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638938841.025500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "C4E8B4",
+                "fallback": "고생하셨습니다.",
+                "text": "고생하셨습니다.",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638939080.025600",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/29|#29: Feature\/add new db to legacy>",
+        "ts": "1638939262.025700",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638939899.025800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#31 [init] ModCommand 구현 init\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/31 by hb-min",
+                "text": "*제목*\n\nModCommand 구현 init\n\n\n\n\n*작업 내용*\n\nTC 작성을 위한 inferface 추가",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "title": "#31 [init] ModCommand 구현 init",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/31",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/master-yun|master-yun> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/31|#31: [init] ModCommand 구현 init>",
+        "ts": "1638939984.025900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "lgtm! 빠른 구현 감사합니다",
+                "text": "lgtm! 빠른 구현 감사합니다",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638940153.026000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/31|#31 [init] ModCommand 구현 init> by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/31|#31 [init] ModCommand 구현 init> by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638940153.026100",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/255aa13ee44c...36220d07c1ba|5 new commits> by 민홍빈",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3dcda576d67f7da2de6204c37f92bb4af80e7593|3dcda57>` [init] ModCommand 구현 init - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f12c33292e7b2d8640ba5f9df124a09d4405477a|f12c332>` [init] ModCommand 구현 init - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/17e30deeee82ed9007130bb5e72301257eec685b|17e30de>` Merge remote-tracking branch 'origin\/feature\/and_operator' into feature\/and_operator - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/d50dbb94e6e7b4cd3333bdf9d976372151752d4b|d50dbb9>` [init] ModCommand 구현 init - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/36220d07c1ba9a115b6a4d0cd36dcba77c9d1d17|36220d0>` Merge pull request #31 from Best-Reviewer-3-11\/feature\/and_operator - 민홍빈",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/255aa13ee44c...36220d07c1ba|5 new commits> by 1:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638942080.026200",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#32 Impl\/employee database\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32 by master-yun",
+                "text": "*제목*\n\nEmployeeDataBase#updateRow 구현\n\n*작업 내용*\n\n추가 요구사항을 위한 sub field들 구현입니다.",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "title": "#32 Impl\/employee database",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638942318.026300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#33 Feature\/compare field\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33 by yeji-yoon",
+                "text": "*제목*\n\nCeritiField 에 대한 compare, validate() 구현\n\n\n\n\n*작업 내용*\n\nCeritiField 에 대한 compare, validate() 구현",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "title": "#33 Feature\/compare field",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638942365.026400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#34 Feature\/parser\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34 by haekwang-lee",
+                "text": "*제목*\n\nTokenOptionParams 으로 hasOption 기능 이동 및 TC확인\n\n\n\n\n*작업 내용*\n\n-p 랑 -a\/-o 이렇게 분리하는 옵션 외에는\n\n\n\n\n-f, -l, -y, -m, -d 이런 파람들이랑 붙어 다녀야 하는 세부 옵션들은 TokenOptionParamsPair 여기 안에서 관리해야 될것 같아보여서 옮기려고 합니다.\n\n\n\n\n즉 지금은 OptionParser를 결국 안쓰고\nTokenGroup =&gt; 출력옵션, -a\/-o 옵션\nTokenOptionParamsPair =&gt; 나머지 세부 param들이랑 연관있는 세부옵션의 hasOption 을 제공.\n\n\n\n\n추후에 리팩토링.",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "title": "#34 Feature\/parser",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/master-yun|master-yun> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33|#33: Feature\/compare field>",
+        "ts": "1638942561.026500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "빠르게 구현하셨네요, 고생 많으셨습니다. :+1:",
+                "text": "빠르게 구현하셨네요, 고생 많으셨습니다. :+1:",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34: Feature\/parser>",
+        "ts": "1638942561.026600",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33|#33: Feature\/compare field>",
+        "ts": "1638942627.026700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "CertType이 Enum이 되면서 많이 정리 된것 같습니다.\n수고하셨습니다.",
+                "text": "CertType이 Enum이 되면서 많이 정리 된것 같습니다.\n수고하셨습니다.",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638942709.026800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/36220d07c1ba...0e03bfabfd96|5 new commits> by Yeji Yoon and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/388d46f22854abfc59d737f38a5b689daa379ee4|388d46f>` CertiField TC enable 및 리팩토링 : tc 는 실패 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3ffdfebc504f979db5c5ad74a4f1bea440f186dd|3ffdfeb>` CertiField compare TC 성공하도록 구현 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/aee53e737d3783990b9e065e41cb2228b18f48a7|aee53e7>` CertiField Validate TC 성공하도록 구현 : null pointer 가 되지 않도록 변경 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/2627433f72477cf4cd9251eeb0b25fc36f5a445c|2627433>` CertiType 을 파일로 분리 : 리팩토링 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0e03bfabfd961c4ec5a26bd4d25d20c8d170a121|0e03bfa>` Merge pull request #33 from Best-Reviewer-3-11\/feature\/compareField - 윤예지",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/36220d07c1ba...0e03bfabfd96|5 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638942709.026900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33|#33 Feature\/compare field> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33|#33 Feature\/compare field> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "저두 리뷰 부탁드립니다,,ㅎㅎ",
+        "user": "U02PNAD3WP7",
+        "ts": "1638942781.027000",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "D0D0D0",
+                "from_url": "https:\/\/bestreviewer-applet.slack.com\/archives\/C02PR9K65HR\/p1638942080026200",
+                "is_share": true,
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#32 Impl\/employee database\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32 by master-yun",
+                "text": "*제목*\n\nEmployeeDataBase#updateRow 구현\n\n*작업 내용*\n\n추가 요구사항을 위한 sub field들 구현입니다.",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "title": "#32 Impl\/employee database",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UqDZ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저두 리뷰 부탁드립니다,,ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33|#33: Feature\/compare field>",
+        "ts": "1638942800.027100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/33|#33: Feature\/compare field>",
+        "ts": "1638942800.027200",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32|#32: Impl\/employee database>",
+        "ts": "1638942980.027300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "수고하셨습니당",
+                "text": "수고하셨습니당",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34: Feature\/parser>",
+        "ts": "1638943041.027400",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32|#32: Impl\/employee database>",
+        "ts": "1638943041.027500",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34: Feature\/parser>",
+        "ts": "1638943101.027600",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34: Feature\/parser>",
+        "ts": "1638943522.027700",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34: Feature\/parser>",
+        "ts": "1638943582.027800",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34: Feature\/parser>",
+        "ts": "1638943642.027900",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "client_msg_id": "361effa0-faba-4b3a-8f66-251107eb3c9f",
+        "type": "message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34>\n지금 머지 눌러도 되겠죠?",
+        "user": "U02PNANDBM3",
+        "ts": "1638943936.028200",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQ9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n지금 머지 눌러도 되겠죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38230db5-6d8c-44ea-91b7-f3ea6e039f64",
+        "type": "message",
+        "text": "넵!",
+        "user": "U02PR9L1FDY",
+        "ts": "1638943967.028400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S2Z4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638943980.028500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/34|#34 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638943980.028600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/0e03bfabfd96...8caf0a27329f|6 new commits> by haekwang.lee and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/5baca11cb932121823757eb6c3855fff6585e123|5baca11>` Parser, list.of 변경 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/e50a5f6151c6d909bd8d890d2dfb7941ef5162d0|e50a5f6>` Parser, 기존 option, params 변수들 TokenOptionParamsPair로 이동 - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9e8bda462a4261a22907f1a6ab2142654555adad|9e8bda4>` Parser, 기존 option, params 변수들 TokenOptionParamsPair로 이동, TC fail - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/8c34fded824c805dc5946f8b86e3fa2e0a418143|8c34fde>` Parser, Test코드 변경 및 버그 수정, TC pass - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/d5c2af25938261116f52bf8588bb3ba3e8ad707c|d5c2af2>` Parser, TokenOptionParamsPair에서 hasOption제공하도록 리팩토링, TC pass - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/8caf0a27329f5b46001720d01cf4707c3777ac1c|8caf0a2>` Merge pull request #34 from Best-Reviewer-3-11\/feature\/parser - 이해광",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/0e03bfabfd96...8caf0a27329f|6 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638944695.028700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#35 Field Factory 도입\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35 by kaiser-park",
+                "text": "*제목*\n\nField Factory 도입\n\n\n\n\n*작업 내용*\n\n1. FieldFactory를 통해 각 Field subclass생성하도록 수정\n2. 마이너 리팩토링",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park>",
+                "title": "#35 Field Factory 도입",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638944882.028800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32|#32 Impl\/employee database> by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32|#32 Impl\/employee database> by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638944882.028900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/8caf0a27329f...1a5f3ab42267|3 new commits> by Mark Yun and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/40999078d535f25f50eadc093b33dbdabc64edd0|4099907>` test | implemented TestEmployeeDatabase.java - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/506de835f9e041d4f1fb5e891d470f6fabc92e9d|506de83>` impl | addAdditionalRowData() - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/1a5f3ab422670751dad9a3ae83f10c6424d62495|1a5f3ab>` Merge pull request #32 from Best-Reviewer-3-11\/impl\/employee-database - 윤민혁",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/8caf0a27329f...1a5f3ab42267|3 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/master-yun|master-yun> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/32|#32: Impl\/employee database>",
+        "ts": "1638944904.029000",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638945881.029300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#36 Feature\/compare field\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/36 by yeji-yoon",
+                "text": "*제목*\n\nCareerLevelField compare(), validate() 구현\n\n*작업 내용*\n\nCareerLevelField compare(), validate() 구현",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "title": "#36 Feature\/compare field",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/36",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2929f9cb-f2ad-4d02-a74f-3a8c23c4ae08",
+        "type": "message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35>\nField Factory 구현 추가합니다. 리뷰 부탁드립니다.",
+        "user": "U02PNBRTY69",
+        "ts": "1638945890.029600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MF2M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nField Factory 구현 추가합니다. 리뷰 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35|#35: Field Factory 도입>",
+        "ts": "1638946045.029800",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/36|#36: Feature\/compare field>",
+        "ts": "1638946045.029900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "수고 많으셨습니다. Enum에 대한 훌륭한 사용법 많이 배워갑니다!",
+                "text": "수고 많으셨습니다. Enum에 대한 훌륭한 사용법 많이 배워갑니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638946175.030000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#37 일부 기능 Integration\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37 by hb-min",
+                "text": "*제목*\n\n일부 기능 Integration\n\n\n\n\n*작업 내용*\n\n기존 Legacy 코드들 삭제\nDelete, Search 기능 구현 필요",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "title": "#37 일부 기능 Integration",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35|#35: Field Factory 도입>",
+        "ts": "1638946226.030100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35|#35: Field Factory 도입>",
+        "ts": "1638946226.030200",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "수고 많으셨습니다.",
+                "text": "수고 많으셨습니다.",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B02QF261U4Q",
+            "ts": "1638946227.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638946238.030400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/36|#36 Feature\/compare field> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/36|#36 Feature\/compare field> by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638946238.030500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/1a5f3ab42267...3f02a08a3f76|4 new commits> by Yeji Yoon and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9270bff35d47002b63cae014a60a1d524e5fd371|9270bff>` CertiField 파일 리팩토링 : 리뷰 받은 내용. - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/efd9a68d69093955df1f3a5d9db90a737327ce7e|efd9a68>` CareerLevelField TC enable : 테스트fail - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/f052e07c0d53811170281ea96b707385c6145b4c|f052e07>` CareerLevelField 구현 : 테스트 성공 - Yeji Yoon\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3f02a08a3f760c75a6804f6d1a7c757e014a0fbf|3f02a08>` Merge pull request #36 from Best-Reviewer-3-11\/feature\/compareField - 윤예지",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/1a5f3ab42267...3f02a08a3f76|4 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37|#37: 일부 기능 Integration>",
+        "ts": "1638946701.030600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "고생 많으셨습니다!",
+                "text": "고생 많으셨습니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37",
+                "service_name": "GitHub"
+            }
+        ],
+        "edited": {
+            "user": "B02QF261U4Q",
+            "ts": "1638946701.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638946725.030800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35|#35 Field Factory 도입> by <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/35|#35 Field Factory 도입> by <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638946725.030900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/3f02a08a3f76...4a993c133956|10 new commits> by purke and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/b44294da8ceec92e19aebc873d4219288bba5360|b44294d>` replace static nested test with normal nested test for accurate maven [clean, test] result - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/5b7a3cc21a511c282780bbcb05ecee2fcd9dffd9|5b7a3cc>` refactor Enum Index to use ordinal for returning index of each field - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/406cf162334eee06f23404a90f20c36b7d294394|406cf16>` extracted inner Enum to separate class - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9d3b292323d48d10ee87f634426c21f6016d6496|9d3b292>` refactor : replace empty list check with isEmpty - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0eeb427cc19035195f58b10958d492d19ba30911|0eeb427>` add failing TC for FieldFactory - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/11cee68f8a67129b619e0dbc0eae5779d022ae16|11cee68>` implement returning polymorphic Field subclass creation per each field(schema) type - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/cac768199c9cd80ef75364557bd15cf9909a23f1|cac7681>` refactor : replace empty list check with isEmpty - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9a44a4b8161fa176db3594a91056d90296900f6c|9a44a4b>` improve test case for unsupported field type - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/bf997beafffafd44f08676d78a117498a46274da|bf997be>` Merge branch 'dev' into feature\/add_newDB_to_legacy - purke\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/4a993c133956704957464895270f3019ed41512b|4a993c1>` Merge pull request #35 from Best-Reviewer-3-11\/feature\/add_newDB_to_legacy - 박근영",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/3f02a08a3f76...4a993c133956|10 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638946952.031000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#38 Test\/commands\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/38 by master-yun",
+                "text": "*제목*\n\n추가 요구사항 golden master test추가\n\n*작업 내용*\n\nsingle option 작업입니다.\nfirstName, lastName, phoneNumber, 생일 검색 및 삭제\napproved파일은 아직 입력되지 않았습니다.\n생성되는 파일을 기반하여 체크할 생각입니다.",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "title": "#38 Test\/commands",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/38",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37|#37: 일부 기능 Integration>",
+        "ts": "1638947061.031100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37|#37: 일부 기능 Integration>",
+        "ts": "1638947061.031200",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "중간에 정리해주시느라 고생하셨습니다!",
+                "text": "중간에 정리해주시느라 고생하셨습니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B02QF261U4Q",
+            "ts": "1638947063.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638947276.031400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37|#37 일부 기능 Integration> by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/37|#37 일부 기능 Integration> by <https:\/\/github.ecodesamsung.com\/hb-min|hb-min>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638947276.031500",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/4a993c133956...743e7dccd4e8|4 new commits> by 민홍빈",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/39cd9b931d3293b9a18df8da95b40861d319c274|39cd9b9>` Integration - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/fe62748f68623469accf5efb74293ddde8c4309c|fe62748>` 일부 Integration \/ Delete, Search 구현 필요 - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/0c5a0dae7114ee4d0811cb2942c1b62e98a867ae|0c5a0da>` Merge branch 'dev' into feature\/integration - 민홍빈\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/743e7dccd4e80f155bafa1cfa37a83e226992f02|743e7dc>` Merge pull request #37 from Best-Reviewer-3-11\/feature\/integration - 민홍빈",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/4a993c133956...743e7dccd4e8|4 new commits> by 1:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638947349.031600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#39 Feature\/parser\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39 by haekwang-lee",
+                "text": "*제목*\n\nOptionParser deprecated, 내부 method는 TokenGroup으로 이동 및 TC동작 확인\n\n\n\n\n*작업 내용*",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "title": "#39 Feature\/parser",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/38|#38: Test\/commands>",
+        "ts": "1638947841.031700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "고생 많으셨습니다. 골든마스터 만드시는게 쉽진 않으셨을 텐데\n감사합니다!",
+                "text": "고생 많으셨습니다. 골든마스터 만드시는게 쉽진 않으셨을 텐데\n감사합니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39: Feature\/parser>",
+        "ts": "1638948080.031800",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39: Feature\/parser>",
+        "ts": "1638948081.031900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "고생하셨습니다!",
+                "text": "고생하셨습니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/kaiser-park|kaiser-park> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39: Feature\/parser>",
+        "ts": "1638948140.032000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "수고하셨습니다!",
+                "text": "수고하셨습니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39: Feature\/parser>",
+        "ts": "1638948201.032100",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39: Feature\/parser>",
+        "ts": "1638948262.032200",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638948313.032300",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39 Feature\/parser> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638948313.032400",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/743e7dccd4e8...20949770679e|5 new commits> by haekwang.lee and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/5c446b4f04ab8a6ed779a693d7c3ed1be0e47b62|5c446b4>` Parser, OptionSpecific테스트 추가, TC fail - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/09bd4093c1d15fc8dbd4a9eb27e4bbf07c16e40f|09bd409>` Parser, TokenOptionParamsPair 옵션 추가, TC pass - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9472bbbbc99b0488d25e98f11f7ac0b53aa58fa8|9472bbb>` Parser, OptionParser의 method TokenGroup으로 이동 , TC pass - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/9e8064c30294a011947c845f0ec65b4badb26580|9e8064c>` Parser, reformat - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/20949770679edc9db977c8ee457b65e3f5f6ac31|2094977>` Merge pull request #39 from Best-Reviewer-3-11\/feature\/parser - 이해광",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/743e7dccd4e8...20949770679e|5 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> commented on <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/39|#39: Feature\/parser>",
+        "ts": "1638948326.032500",
+        "bot_id": "B02QF261U4Q"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/hb-min|hb-min> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/38|#38: Test\/commands>",
+        "ts": "1638948564.032600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "이제 제가 잘 쓰면 되겠네요!\n고생하셨습니다!",
+                "text": "이제 제가 잘 쓰면 되겠네요!\n고생하셨습니다!",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638949784.032700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/20949770679e...3e8a05b7aae4|6 new commits> by Mark Yun and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/8e9da2bf0f7f293ad81afa297b0b061e935545c7|8e9da2b>` test | added approval test for Search - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/5a247dd4fc5ca1f95413dd61b838360a9a1167b4|5a247dd>` test | added approval test for name options - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/c22db33bef1959c976c8b9b0ae61a281106aeae6|c22db33>` test | added approval test for phoneNumber options - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/4d1d292e5d15fe528a81a0166dadbced971d0643|4d1d292>` test | added approval test for birthday options - Mark Yun\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/2fa8924c7bef1ff1e1be31b7f0afec399503b70f|2fa8924>` Merge branch 'dev' into test\/commands - 윤민혁\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/3e8a05b7aae4206fcc4fb07a776b0c547a6e059d|3e8a05b>` Merge pull request #38 from Best-Reviewer-3-11\/test\/commands - 윤민혁",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/20949770679e...3e8a05b7aae4|6 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1638949784.032800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/38|#38 Test\/commands> by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/38|#38 Test\/commands> by <https:\/\/github.ecodesamsung.com\/master-yun|master-yun>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    }
+]

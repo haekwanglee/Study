@@ -1,0 +1,4 @@
+Rental Record for TestCustomer
+	NEW_RELEASE_5	15.0
+Amount owed is 15.0
+You earned 2 frequent renter points

@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1639037608.058600",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#78 parser 리팩토링 rollback\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/78 by haekwang-lee",
+                "text": "*제목*\n\nparser 리팩토링 rollback\n\n\n\n\n\n\n\n*작업 내용*\n\n추가된 TC와 함께 재정리 필요",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "title": "#78 parser 리팩토링 rollback",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/78",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1639040201.058700",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "E3E4E6",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/78|#78 parser 리팩토링 rollback> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "text": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request closed: <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/78|#78 parser 리팩토링 rollback> by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1639040201.058800",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "4183C4",
+                "fallback": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/4324c8b926d9...b3eaf689854b|2 new commits> by haekwang.lee and 1 other",
+                "text": "`<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/79b495881ea00644d3f4573f8017869dc85bbeb6|79b4958>` parser 리팩토링 rollback - haekwang.lee\n `<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/b3eaf689854bc65de0fe5587bb7417bc183f83dc|b3eaf68>` Merge pull request #78 from Best-Reviewer-3-11\/feature\/parser - 이해광",
+                "pretext": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/tree\/dev|[TeamProject_Applet:dev]> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/compare\/4324c8b926d9...b3eaf689854b|2 new commits> by 1 and 1 other:",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1639041309.058900",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#79 Feature\/option3\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/79 by yeji-yoon",
+                "text": "*제목*\n\nsearch 10,000개 역순으로 찾는 TC 추가\n\n*작업 내용*\n\nsearch 10,000개 역순으로 찾는 TC 추가",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/yeji-yoon|yeji-yoon>",
+                "title": "#79 Feature\/option3",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/79",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet|[Best-Reviewer-3-11\/TeamProject_Applet]> <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee> approved <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/79|#79: Feature\/option3>",
+        "ts": "1639042525.059000",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "작업 수고하셨습니다!~",
+                "text": "작업 수고하셨습니다!~",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1639042547.059100",
+        "bot_id": "B02QF261U4Q",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "6CC644",
+                "fallback": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted: \"#80 parse 함수 리팩토링\" https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/80 by haekwang-lee",
+                "text": "*제목*\n\nparse 함수 리팩토링\n\n\n\n\n*작업 내용*\n\nTC동작 확인하면서 parse 리팩토링 진행",
+                "pretext": "[Best-Reviewer-3-11\/TeamProject_Applet] Pull request submitted by <https:\/\/github.ecodesamsung.com\/haekwang-lee|haekwang-lee>",
+                "title": "#80 parse 함수 리팩토링",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/80",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    }
+]

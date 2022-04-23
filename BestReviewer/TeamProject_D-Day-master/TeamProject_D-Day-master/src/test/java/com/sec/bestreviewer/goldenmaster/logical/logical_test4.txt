@@ -1,0 +1,10 @@
+SCH, ,-m,-ge,phoneNum,1111,-a,-m,-se,phoneNum,1111
+SCH,-p,-m,-ge,phoneNum,1111,-a,-m,-se,phoneNum,1111
+MOD, ,-m, ,phoneNum,1111,-a,-m, ,phoneNum,1111,name,Middle oneone
+SCH, ,-f, ,name,Middle
+SCH,-p,-f, ,name,Middle
+SCH, ,-l, ,name,oneone
+SCH,-p,-l, ,name,oneone
+DEL, ,-f, ,name,DICTIONARY,-o,-l, ,name,oneone
+SCH,-p, ,-ge,certi,ADV
+SCH,-p,-f, ,name,DICTIONARY

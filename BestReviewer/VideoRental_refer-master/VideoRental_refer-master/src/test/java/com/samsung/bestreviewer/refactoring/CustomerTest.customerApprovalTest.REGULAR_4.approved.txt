@@ -1,0 +1,4 @@
+Rental Record for TestCustomer
+	REGULAR_4	5.0
+Amount owed is 5.0
+You earned 1 frequent renter points

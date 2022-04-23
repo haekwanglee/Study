@@ -1,0 +1,4 @@
+<table><tr><th colspan=3 align=left><b>Rentals for <b></th><th><em>TestCustomer</em></th></tr>
+<tr><td> </td><td>NEW_RELEASE_2</td><td> </td><td>6.0</td></tr>
+<tr><td colspan=4><b>Amount owed is <EM>6.0</b></td></tr>
+<tr><td colspan=4><b>You earned <EM>2</EM> frequent renter points</b></td></tr></table>

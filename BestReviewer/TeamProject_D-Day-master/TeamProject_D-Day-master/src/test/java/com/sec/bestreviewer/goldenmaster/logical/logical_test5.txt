@@ -1,0 +1,6 @@
+SCH,-p,-l, ,phoneNum,1111,-a,-d, ,birthday,01
+MOD,-p,-l, ,phoneNum,1111,-a,-d, ,birthday,01,certi,PRO
+SCH,-p,-l, ,phoneNum,1118,-o,-d, ,birthday,09
+SCH, ,-l, ,phoneNum,1118,-o,-d, ,birthday,09
+MOD,-p,-l, ,phoneNum,1118,-o,-d, ,birthday,09,certi,PRO
+SCH, ,-l, ,phoneNum,1118,-o,-d, ,birthday,09

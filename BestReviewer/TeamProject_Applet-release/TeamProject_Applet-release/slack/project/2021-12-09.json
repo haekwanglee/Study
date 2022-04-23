@@ -1,0 +1,516 @@
+[
+    {
+        "client_msg_id": "afc06ce0-1e85-4218-8dd6-9bebce59e600",
+        "type": "message",
+        "text": "혹시 현재 dev에서 TC페일 나는것 같은데요 저만 그런가요?",
+        "user": "U02PNBRTY69",
+        "ts": "1639037021.239600",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e64d018b5ee3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2807337383714_e64d018b5ee39c7a7da4_72.png",
+            "first_name": "Keun",
+            "real_name": "Keun Young Park",
+            "display_name": "Keun Young Park",
+            "team": "T02PR8JF97U",
+            "name": "purken8857",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kQ+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 현재 dev에서 TC페일 나는것 같은데요 저만 그런가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "875d2f08-3e21-4aae-bae0-a3f689d3ece6",
+        "type": "message",
+        "text": "확인해볼게요!",
+        "user": "U02PR9L1FDY",
+        "ts": "1639037037.239800",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "050336f73d21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800629739286_050336f73d211a9def51_72.png",
+            "first_name": "Hongbin",
+            "real_name": "Hongbin Min",
+            "display_name": "Hongbin Min",
+            "team": "T02PR8JF97U",
+            "name": "downdew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQ5L+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인해볼게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5c30edf-251d-4746-a4ea-dd26d1b53547",
+        "type": "message",
+        "text": "ci보니까 해광님 커밋부터",
+        "user": "U02PNAD3WP7",
+        "ts": "1639037051.240100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5gw\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ci보니까 해광님 커밋부터"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64e96744-0c77-4bbb-9aea-9a9838b744c5",
+        "type": "message",
+        "text": "테스트 fail이 나는것같아요",
+        "user": "U02PNAD3WP7",
+        "ts": "1639037055.240300",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4VJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "테스트 fail이 나는것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c42de093-21ae-467e-8a20-f49c3809b872",
+        "type": "message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8|Merge pull request> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/76|#76> <https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8|from Best-Reviewer-3-11\/feature\/parser> \n\n<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits?author=haekwang-lee|haekwang-lee> committed 34 minutes ago\n\n<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8|ce5cfac>",
+        "user": "U02PNAD3WP7",
+        "ts": "1639037065.240500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8",
+                "service_name": "GitHub"
+            },
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/76",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/76",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/76",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l+m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8",
+                                "text": "Merge pull request"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/pull\/76",
+                                "text": "#76",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8",
+                                "text": "from Best-Reviewer-3-11\/feature\/parser"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits?author=haekwang-lee",
+                                "text": "haekwang-lee"
+                            },
+                            {
+                                "type": "text",
+                                "text": " committed 34 minutes ago\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commit\/ce5cfac34104f869b7f739f4ca1351e55d33a1f8",
+                                "text": "ce5cfac"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cacdca6-ebf7-48d1-8dfb-2d07f65d3dbe",
+        "type": "message",
+        "text": "<https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits\/dev>",
+        "user": "U02PNAD3WP7",
+        "ts": "1639037069.240700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits\/dev",
+                "image_url": "https:\/\/assets.github.ecodesamsung.com\/images\/modules\/open_graph\/github-logo.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7038,
+                "service_icon": "https:\/\/github.ecodesamsung.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits\/dev",
+                "fallback": "GitHub: Build software better, together",
+                "text": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+                "title": "Build software better, together",
+                "title_link": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits\/dev",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2SFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.ecodesamsung.com\/Best-Reviewer-3-11\/TeamProject_Applet\/commits\/dev"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d55fd3c-6b1e-4c30-9bdf-73dfc8f2488a",
+        "type": "message",
+        "text": "흑..",
+        "user": "U02PNANDBM3",
+        "ts": "1639037084.241100",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "흑.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33c35171-f06d-4137-995b-734db66ac288",
+        "type": "message",
+        "text": "머지에서 뭔가 문제가생겻나봐요",
+        "user": "U02PNAD3WP7",
+        "ts": "1639037106.241400",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gw=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "머지에서 뭔가 문제가생겻나봐요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccc72fb3-a07e-443c-8a41-ffafb426ae0a",
+        "type": "message",
+        "text": "머지커밋부터 fail되네용",
+        "user": "U02PNAD3WP7",
+        "ts": "1639037109.241700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "6343dfff2290",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2800594207350_6343dfff229074808944_72.png",
+            "first_name": "Min-hyeok",
+            "real_name": "Min-hyeok Yun",
+            "display_name": "",
+            "team": "T02PR8JF97U",
+            "name": "only.hyeok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "머지커밋부터 fail되네용"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67438bbb-d618-4bda-a502-43f9b71eedd5",
+        "type": "message",
+        "text": "비밀은 파서쪽 리팩토링할때 발생했습니다 ㅜ\n머지하면서 disabled되어있던 TC가 열리면서",
+        "user": "U02PNANDBM3",
+        "ts": "1639037445.242500",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FmP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "비밀은 파서쪽 리팩토링할때 발생했습니다 ㅜ\n머지하면서 disabled되어있던 TC가 열리면서"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8512baf1-5cfa-4458-89f4-0e4758943397",
+        "type": "message",
+        "text": "다시보겄습니당",
+        "user": "U02PNANDBM3",
+        "ts": "1639037450.242700",
+        "team": "T02PR8JF97U",
+        "user_team": "T02PR8JF97U",
+        "source_team": "T02PR8JF97U",
+        "user_profile": {
+            "avatar_hash": "e7be72bf7010",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-07\/2807343411027_e7be72bf7010777334d6_72.png",
+            "first_name": "이해광",
+            "real_name": "이해광",
+            "display_name": "이해광",
+            "team": "T02PR8JF97U",
+            "name": "haekwangl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eu05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다시보겄습니당"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02PNAD3WP7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

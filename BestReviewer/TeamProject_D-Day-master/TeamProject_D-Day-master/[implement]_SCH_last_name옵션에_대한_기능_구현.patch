@@ -1,0 +1,119 @@
+Index: src/test/java/com/sec/bestreviewer/EmployeeStoreTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/com/sec/bestreviewer/EmployeeStoreTest.java b/src/test/java/com/sec/bestreviewer/EmployeeStoreTest.java
+--- a/src/test/java/com/sec/bestreviewer/EmployeeStoreTest.java	(revision 2fb505449887185888f8df833e922c51c3228a8d)
++++ b/src/test/java/com/sec/bestreviewer/EmployeeStoreTest.java	(date 1638963793322)
+@@ -13,7 +13,7 @@
+ 
+ public class EmployeeStoreTest {
+     EmployeeStore employeeStore = Injection.provideEmployeeStore();
+-    Employee employee = new Employee("90001234", "Reviewer KIM", "CL1", "01012345678", "20000101", "PRO");
++    Employee employee = new Employee("90001234", "Reviewer KIM", "CL1", "010-1234-5678", "20000101", "PRO");
+ 
+     @BeforeEach
+     void beforeEach() {
+@@ -40,8 +40,8 @@
+ 
+     @Test
+     void testModifyPhoneNumber() {
+-        List<Employee> list = employeeStore.modify(EmployeeStore.FIELD_PHONE_NUMBER, "01012349999", Arrays.asList(employee));
+-        assertEquals("01012349999", employee.getPhoneNumber());
++        List<Employee> list = employeeStore.modify(EmployeeStore.FIELD_PHONE_NUMBER, "010-1234-9999", Arrays.asList(employee));
++        assertEquals("010-1234-9999", employee.getPhoneNumber());
+         assertEquals(1, list.size());
+         assertEquals(1, employeeStore.count());
+     }
+@@ -79,8 +79,8 @@
+ 
+     @Test
+     void testSearchPhoneNumbeWithSer() {
+-        List<Employee> list = employeeStore.search(EmployeeStore.FIELD_PHONE_NUMBER, "01012345679", "-se");
+-        assertEquals("01012345678", list.get(0).getPhoneNumber());
++        List<Employee> list = employeeStore.search(EmployeeStore.FIELD_PHONE_NUMBER, "010-1234-5679", "-se");
++        assertEquals("010-1234-5678", list.get(0).getPhoneNumber());
+     }
+ 
+     @Test
+@@ -118,4 +118,28 @@
+         List<Employee> list = employeeStore.search(EmployeeStore.FIELD_NAME, "PARK", " ", "-l");
+         assertEquals(0, list.size());
+     }
+-}
++
++    @Test
++    void testSearchPhoneNumberWithMiddleNumber() {
++        List<Employee> list = employeeStore.search(EmployeeStore.FIELD_PHONE_NUMBER, "1234", " ", "-mn");
++        assertEquals("010-1234-5678", list.get(0).getPhoneNumber());
++    }
++
++    @Test
++    void testSearchPhoneNumberWithMiddleNumber_NoResult() {
++        List<Employee> list = employeeStore.search(EmployeeStore.FIELD_PHONE_NUMBER, "5678", " ", "-mn");
++        assertEquals(0, list.size());
++    }
++
++    @Test
++    void testSearchPhoneNumberWithLastNumber() {
++        List<Employee> list = employeeStore.search(EmployeeStore.FIELD_PHONE_NUMBER, "5678", " ", "-ln");
++        assertEquals("010-1234-5678", list.get(0).getPhoneNumber());
++    }
++
++    @Test
++    void testSearchPhoneNumberWithLastNumber_NoResult() {
++        List<Employee> list = employeeStore.search(EmployeeStore.FIELD_PHONE_NUMBER, "1234", " ", "-ln");
++        assertEquals(0, list.size());
++    }
++}
+\ No newline at end of file
+Index: src/main/java/com/sec/bestreviewer/store/EmployeePhoneNumberField.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/sec/bestreviewer/store/EmployeePhoneNumberField.java b/src/main/java/com/sec/bestreviewer/store/EmployeePhoneNumberField.java
+new file mode 100644
+--- /dev/null	(date 1638964308251)
++++ b/src/main/java/com/sec/bestreviewer/store/EmployeePhoneNumberField.java	(date 1638964308251)
+@@ -0,0 +1,22 @@
++package com.sec.bestreviewer.store;
++
++import com.sec.bestreviewer.util.Options;
++
++public class EmployeePhoneNumberField extends Field {
++
++    public EmployeePhoneNumberField(String value) {
++        super(value);
++    }
++
++    @Override
++    public int toCompareTo(String value, String additionalCompareMethod) {
++        if(additionalCompareMethod.equals( Options.MIDDLE_NUMBER_OPTION)){
++            String[] splitedName = this.value.split("-");
++            return splitedName[1].equals(value) ? 0 : -1;
++        }else if(additionalCompareMethod.equals( Options.LAST_NUMBER_OPTION)){
++            String[] splitedName = this.value.split("-");
++            return splitedName[2].equals(value) ? 0 : -1;
++        }
++        return this.value.equals(value)? 0 : -1;
++    }
++}
+Index: src/main/java/com/sec/bestreviewer/store/Employee.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/sec/bestreviewer/store/Employee.java b/src/main/java/com/sec/bestreviewer/store/Employee.java
+--- a/src/main/java/com/sec/bestreviewer/store/Employee.java	(revision 2fb505449887185888f8df833e922c51c3228a8d)
++++ b/src/main/java/com/sec/bestreviewer/store/Employee.java	(date 1638964196522)
+@@ -21,7 +21,7 @@
+         this.employeeNumber = new EmployeeNumberField(employeeNumber);
+         this.name = new EmployeeNameField(name);
+         this.careerLevel = new Field(careerLevel);
+-        this.phoneNumber = new Field(phoneNumber);
++        this.phoneNumber = new EmployeePhoneNumberField(phoneNumber);
+         this.birthday = new Field(birthday);
+         this.certi = new CertiField(certi);
+     }

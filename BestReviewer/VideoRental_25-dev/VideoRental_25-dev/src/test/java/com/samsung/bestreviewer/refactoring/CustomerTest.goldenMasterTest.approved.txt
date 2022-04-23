@@ -1,0 +1,19 @@
+Rental Record for test_customer
+	test_title	2.0
+	test_title	2.0
+	test_title	3.5
+	test_title	5.0
+	test_title	1.5
+	test_title	1.5
+	test_title	1.5
+	test_title	3.0
+	test_title	3.0
+	test_title	6.0
+	test_title	9.0
+	test_title	12.0
+	test_title	5.0
+	test_title	10.0
+	test_title	17.5
+	test_title	25.0
+Amount owed is 107.5
+You earned 65 frequent renter points

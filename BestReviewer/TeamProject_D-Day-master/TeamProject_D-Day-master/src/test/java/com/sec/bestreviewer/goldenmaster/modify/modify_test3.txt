@@ -1,0 +1,5 @@
+SCH,-p,-f, ,name,FIRST
+MOD, , , ,employeeNum,90000000,name,Modified Name
+SCH,-p, , ,name,Modified Name
+SCH,-p,-f, ,name,Modified
+SCH,-p,-l, ,phoneNum,1111

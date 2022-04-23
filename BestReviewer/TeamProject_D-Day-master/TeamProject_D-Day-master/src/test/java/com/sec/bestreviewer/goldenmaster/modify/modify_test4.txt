@@ -1,0 +1,9 @@
+SCH,-p, , ,employeeNum,90000000
+MOD,-p, , ,employeeNum,90000000,name,Modified Name
+SCH,-p,-m, ,birthday,01
+MOD,-p,-m, ,birthday,01,certi,EX
+SCH,-p,-m, ,birthday,01
+SCH,-p,-y, ,birthday,1997
+MOD,-p,-y, ,birthday,1997,certi,EX
+SCH,-p,-l, ,name,AAA
+MOD,-p,-l, ,name,AAA,phoneNum,010-0000-0000

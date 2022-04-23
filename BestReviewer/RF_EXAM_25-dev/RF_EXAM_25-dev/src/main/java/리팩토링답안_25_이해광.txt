@@ -1,0 +1,17 @@
+25, 이해광
+
+1. 같은 맥락끼리 분간이 될수 있도록
+   slide statements
+   SRP원칙을 지킬수 있도록 모듈을 분리
+   extract function, replace function with command, replace typecode with subclass
+
+2.
+
+3. loop에서 두가지 변수의 변경이 일어남.
+   split loop로 각각의 변수 변경하는 동작을 분리.
+
+4. introduce special case
+
+
+
+

@@ -1,0 +1,18 @@
+<table><tr><th colspan=3 align=left><b>Rentals for <b></th><th><em>SuperHtmlCustomer</em></th></tr>
+<tr><td> </td><td>NEW_RELEASE_1</td><td> </td><td>3.0</td></tr>
+<tr><td> </td><td>NEW_RELEASE_2</td><td> </td><td>6.0</td></tr>
+<tr><td> </td><td>NEW_RELEASE_3</td><td> </td><td>9.0</td></tr>
+<tr><td> </td><td>NEW_RELEASE_4</td><td> </td><td>12.0</td></tr>
+<tr><td> </td><td>NEW_RELEASE_5</td><td> </td><td>15.0</td></tr>
+<tr><td> </td><td>REGULAR_1</td><td> </td><td>2.0</td></tr>
+<tr><td> </td><td>REGULAR_2</td><td> </td><td>2.0</td></tr>
+<tr><td> </td><td>REGULAR_3</td><td> </td><td>3.5</td></tr>
+<tr><td> </td><td>REGULAR_4</td><td> </td><td>5.0</td></tr>
+<tr><td> </td><td>REGULAR_5</td><td> </td><td>6.5</td></tr>
+<tr><td> </td><td>CHILDREN_1</td><td> </td><td>1.5</td></tr>
+<tr><td> </td><td>CHILDREN_2</td><td> </td><td>1.5</td></tr>
+<tr><td> </td><td>CHILDREN_3</td><td> </td><td>1.5</td></tr>
+<tr><td> </td><td>CHILDREN_4</td><td> </td><td>3.0</td></tr>
+<tr><td> </td><td>CHILDREN_5</td><td> </td><td>4.5</td></tr>
+<tr><td colspan=4><b>Amount owed is <EM>76.0</b></td></tr>
+<tr><td colspan=4><b>You earned <EM>19</EM> frequent renter points</b></td></tr></table>
