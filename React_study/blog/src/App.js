@@ -8,6 +8,7 @@ function App() {
   let [좋아요개수, 좋아요개수변경] = useState([0, 0, 0]);
   let [modal, setModal] = useState(false); 
   let [modal글제목Index, modal글제목Index변경] = useState(0);
+  let [입력텍스트, 입력텍스트변경] = useState('');
 
   function App글제목바꾸기함수(){    
     let copy = [...App글제목];
@@ -61,6 +62,18 @@ function App() {
         <Modal func={App글제목바꾸기함수} color={'skyblue'} title={App글제목} index={modal글제목Index}>          
         </Modal> : null
       }      
+
+      <input onChange={(e)=>{
+        입력텍스트변경(e.target.value);
+        console.log(e.target.value);
+      }} type="text"/>
+
+      <input type="range"/> 
+      <input type="date"/>
+      <input type="number"/>
+      <textarea></textarea>
+      <select></select>
+
     </div>
   );
 }
