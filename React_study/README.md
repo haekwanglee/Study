@@ -45,3 +45,4 @@ var newArray = 어레이.map(function(a){
 });
 console.log(newArray)
 ```
+비슷한 html 여러개 필요하면 map() 안에 담으면 됩니다.   
