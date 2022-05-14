@@ -22,4 +22,5 @@ array/object 쓸때 let 타입변수는 포인터 느낌?
 ### useState  
 UI를 각각 상태에 대해 마련해놓고 이벤트 변경에 따라 스위치 역할을 하는  
 useState의 상태변경 func를 통해 UI상태를 변경시켜줌.  
+state만 변경하면 UI가 알아서 바뀜.  
 
