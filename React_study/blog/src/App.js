@@ -33,6 +33,29 @@ function App() {
     좋아요개수변경(copy);
   }
 
+  function 글발행함수(content){
+    let newArray = [...App글제목];
+    newArray.push(content);
+    App글제목변경(newArray);
+
+    newArray = [...좋아요개수];
+    newArray.push(0);
+    좋아요개수변경(newArray);
+  }
+
+  function 글삭제함수(index){
+    if(index >= App글제목.length){
+      return;
+    }
+    let newArray = [...App글제목];
+    newArray.splice(index,1);
+    App글제목변경(newArray);
+
+    newArray = [...좋아요개수];
+    newArray.splice(index,1);
+    좋아요개수변경(newArray);
+  }
+
   return (
     <div className="App">
       <div className="black-nav">
@@ -52,7 +75,10 @@ function App() {
                 }}>👍</button> 
                 { 좋아요개수[i] } 
               </h4>
-              <p>4월 25일 발행</p>
+              <p>4월 25일 발행</p>              
+              <button onClick={()=>{
+                글삭제함수(i);
+              }}>글삭제</button>
             </div>
           )
         })
@@ -63,16 +89,24 @@ function App() {
         </Modal> : null
       }      
 
+
       <input onChange={(e)=>{
         입력텍스트변경(e.target.value);
         console.log(e.target.value);
       }} type="text"/>
+      <button onClick={()=>{
+        글발행함수(입력텍스트);
+      }}>글발행</button>
 
+      
+      {/*
       <input type="range"/> 
       <input type="date"/>
       <input type="number"/>
       <textarea></textarea>
       <select></select>
+      */}
+      
 
     </div>
   );
