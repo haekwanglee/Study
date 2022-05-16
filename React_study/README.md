@@ -24,3 +24,25 @@ UI를 각각 상태에 대해 마련해놓고 이벤트 변경에 따라 스위�
 useState의 상태변경 func를 통해 UI상태를 변경시켜줌.  
 state만 변경하면 UI가 알아서 바뀜.  
 
+### map  
+모든 array 자료 우측엔 map() 함수를 붙일 수 있습니다.   
+기능 1. array에 들어있는 자료갯수만큼 그 안에 있는 코드를 반복실행해줍니다.  
+```
+어레이.map(function(){
+  console.log(1)
+});
+```
+기능 2. 콜백함수에 파라미터 아무렇게나 작명하면 그 파라미터는 어레이 안에 있던 모든 자료를 하나씩 출력해줍니다.  
+```
+어레이.map(function(a){
+  console.log(a)
+});
+```
+기능3. return 오른쪽에 뭐 적으면 array로 담아줍니다. 그리고 map() 쓴 자리에 남겨줍니다.  
+```
+var newArray = 어레이.map(function(a){
+  return a * 10
+});
+console.log(newArray)
+```
+비슷한 html 여러개 필요하면 map() 안에 담으면 됩니다.   
