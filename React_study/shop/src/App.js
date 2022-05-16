@@ -2,8 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Button, Navbar, Container, Nav, NavDropdown} from 'react-bootstrap'
+import { useState } from 'react';
+import data from './data.js';
 
 function App() {
+
+  let [shoes, shoesStateCB] = useState(data);
+
   return (
     <div>
       <div className="main-bg">
@@ -34,26 +39,24 @@ function App() {
 
       <div className="container">
         <div className="row">
-          <div className="col-md-4">            
-            <img src="https://codingapple1.github.io/shop/shoes1.jpg" width="80%" />
-              <h4>상품명</h4>
-              <p>상품정보</p>
-          </div>
-          <div className="col-md-4">
-            <img src="https://codingapple1.github.io/shop/shoes2.jpg" width="80%" />
-              <h4>상품명</h4>
-              <p>상품정보</p>
-          </div>
-          <div className="col-md-4">
-            <img src="https://codingapple1.github.io/shop/shoes3.jpg" width="80%" />
-              <h4>상품명</h4>
-              <p>상품정보</p>
-          </div>
+          <Card shoes={shoes}></Card>
+          <Card shoes={shoes}></Card>
+          <Card shoes={shoes}></Card>
         </div>
       </div> 
 
     </div>
   );
+}
+
+function Card(props) {
+  return(
+    <div className="col-md-4">            
+      <img src="https://codingapple1.github.io/shop/shoes1.jpg" width="80%" />
+      <h4>{props.shoes[0].title}</h4>
+      <p>{props.shoes[0].content}</p>
+    </div>
+  )
 }
 
 export default App;
