@@ -4,12 +4,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {Button, Navbar, Container, Nav, NavDropdown} from 'react-bootstrap'
 import { useState } from 'react';
 import data from './data.js';
+import { Routes, Route, Link } from 'react-router-dom'
 
 function App() {
 
   let [shoes, shoesStateCB] = useState(data);
 
   return (
+
+    
     <div>
       <div className="main-bg">
         <img src={process.env.PUBLIC_URL + '/logo192.png'} /> 
@@ -34,27 +37,41 @@ function App() {
         </Container>
       </Navbar>
 
-      <Button variant="primary">Primary</Button>
-      <Button variant="secondary">Secondary</Button>{' '}
+      <Link to="/"> 홈 </Link>
+      <Link to="/detail"> 디테일 </Link>
+      <Link to="/about"> 어바웃 </Link>
 
-      <div className="container">
-        <div className="row">
-          {
-            shoes.map(function(a,i){
-              return (
-                <Card shoes={shoes[i]} i={i}></Card>
-              )
-            })
-            // shoes.map((a,i)=>{
-            //   return (
-            //     <Card shoes={shoes[i]} i={i}></Card>
-            //   )
-            // })
-          }
-        </div>
-      </div> 
+      <Routes>
+        <Route path="/" element={
+          <div>
+
+            <Button variant="primary">Primary</Button>
+            <Button variant="secondary">Secondary</Button>{' '}
+            <div className="container">
+              <div className="row">
+                {
+                  shoes.map(function(a,i){
+                    return (
+                      <Card shoes={shoes[i]} i={i}></Card>
+                    )
+                  })
+                  // shoes.map((a,i)=>{
+                  //   return (
+                  //     <Card shoes={shoes[i]} i={i}></Card>
+                  //   )
+                  // })
+                }
+              </div>
+            </div> 
+
+          </div> 
+        }/>
+        <Route path="/about" element={ <div>어바웃페이지임</div> } />
+        <Route path="/detail" element={ <div>디테일페이지임</div> } />
+      </Routes>
 
     </div>
+    
   );
 }
 
