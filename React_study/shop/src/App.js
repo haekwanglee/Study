@@ -1,18 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Button, Navbar, Container, Nav, NavDropdown} from 'react-bootstrap'
-import { useState } from 'react';
+
+import logo from './logo.svg';
 import data from './data.js';
-import { Routes, Route, Link } from 'react-router-dom'
+import Detail from './routes/Detail.js';
+import About from './routes/About.js';
+
+import {useState} from 'react';
+import {Button, Navbar, Container, Nav, NavDropdown} from 'react-bootstrap';
+import {Routes, Route, Link, useNavigate, Outlet} from 'react-router-dom';
 
 function App() {
 
   let [shoes, shoesStateCB] = useState(data);
 
-  return (
+  let navigate = useNavigate();
 
-    
+  return (
     <div>
       <div className="main-bg">
         <img src={process.env.PUBLIC_URL + '/logo192.png'} /> 
@@ -37,14 +41,18 @@ function App() {
         </Container>
       </Navbar>
 
-      <Link to="/"> 홈 </Link>
-      <Link to="/detail"> 디테일 </Link>
-      <Link to="/about"> 어바웃 </Link>
+      <button onClick={()=>{ navigate('/') }}>홈</button>
+      <button onClick={()=>{ navigate('/detail') }}>디테일</button>
+      <button onClick={()=>{ navigate('/about') }}>어바웃</button>
+      <button onClick={()=>{ navigate('/about/member') }}>어바웃 멤버</button>
+      <button onClick={()=>{ navigate('/about/location') }}>어바웃 위치</button>
+      
+      <button onClick={()=>{ navigate(-1)}}>뒤로가기</button>
+      <button onClick={()=>{ navigate(1)}}>앞으로가기</button>
 
       <Routes>
         <Route path="/" element={
           <div>
-
             <Button variant="primary">Primary</Button>
             <Button variant="secondary">Secondary</Button>{' '}
             <div className="container">
@@ -52,7 +60,7 @@ function App() {
                 {
                   shoes.map(function(a,i){
                     return (
-                      <Card shoes={shoes[i]} i={i}></Card>
+                      <Card shoes={shoes[i]} i={i}/>
                     )
                   })
                   // shoes.map((a,i)=>{
@@ -62,12 +70,21 @@ function App() {
                   // })
                 }
               </div>
-            </div> 
-
+            </div>
           </div> 
         }/>
-        <Route path="/about" element={ <div>어바웃페이지임</div> } />
-        <Route path="/detail" element={ <div>디테일페이지임</div> } />
+        
+        <Route path="/detail" element={
+          <Detail/>
+        }/>
+        <Route path="/about" element={ <About/> }>  
+          <Route path="member" element={ <div>멤버들</div> } />
+          <Route path="location" element={ <div>회사위치</div> } />
+        </Route>
+        <Route path="*" element={ 
+          <div>없는페이지임</div> 
+        }/>
+        
       </Routes>
 
     </div>
